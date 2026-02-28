@@ -1,0 +1,2894 @@
+brew install openssl readline sqlite3 xz zlib tcl-tk
+==> Auto-updating Homebrew...
+Adjust how often this is run with `$HOMEBREW_AUTO_UPDATE_SECS` or disable with
+`$HOMEBREW_NO_AUTO_UPDATE=1`. Hide these hints with `$HOMEBREW_NO_ENV_HINTS=1` (see `man brew`).
+==> Downloading https://ghcr.io/v2/homebrew/core/portable-ruby/blobs/sha256:1c98fa49eacc935640a6f8e10a2bf33f14cfc276804b71ddb658ea45ba99d167
+################################################################################################# 100.0%
+==> Pouring portable-ruby-3.4.8.arm64_big_sur.bottle.tar.gz
+==> Auto-updated Homebrew!
+Updated 2 taps (homebrew/core and homebrew/cask).
+==> New Formulae
+actions-up: Tool to update GitHub Actions to latest versions with SHA pinning
+adplay: Command-line player for OPL2 music
+agent-browser: Browser automation CLI for AI agents
+ansible@12: Automate deployment, configuration, and upgrading
+any2fasta: Convert various sequence formats to FASTA
+aoe: Terminal session manager for AI coding agents
+apache-serf: High-performance asynchronous HTTP client library
+arcadedb: Multi-Model DBMS: Graph, Document, Key/Value, Search, Time Series, Vector
+asc: Fast, lightweight CLI for App Store Connect
+astra: Command-Line Interface for DataStax Astra
+async-profiler: Sampling CPU & HEAP profiler for Java using AsyncGetCallTrace + perf_events
+auto-editor: Effort free video editing!
+av1an: Cross-platform command-line encoding framework
+aws-spiffe-workload-helper: Helper for providing AWS credentials to workloads using their SPIFFE identity
+azure-dev: Developer CLI that provides commands for working with Azure resources
+azurite: Lightweight server clone of Azure Storage that simulates it locally
+bagel: CLI to audit posture and evaluate compromise blast radius
+bazel@8: Google's own build tool
+beads: Memory upgrade for your coding agent
+beads_viewer: Terminal-based UI for the Beads issue tracker
+bitwuzla: SMT solver for bit-vectors, floating-points, arrays and uninterpreted functions
+bookokrat: Terminal EPUB Book Reader
+bumpp: Interactive CLI that bumps your version numbers and more
+calm-cli: CLI allows you to interact with the Common Architecture Language Model (CALM)
+cargo-features-manager: TUI like cli tool to manage the features of your rust-project dependencies
+carl: Calendar for the command-line
+ccextractor: Tool for extracting closed captions from video files
+cek: Explore the (overlay) filesystem and layers of OCI container images
+cinecli: Browse, inspect, and launch movie torrents directly from your terminal
+classifier: Text classification with Bayesian, LSI, Logistic Regression, and kNN
+claude-agent-acp: Use Claude Code from any ACP client such as Zed!
+clock-rs: Modern, digital clock that effortlessly runs in your terminal
+codanna: Code intelligence system with semantic search
+codex-acp: Use Codex from ACP-compatible clients such as Zed!
+cozyhr: Cozy wrapper around Helm and Flux CD for local development
+cronboard: Terminal-based dashboard for managing cron jobs locally and on servers
+ctags-lsp: LSP implementation using universal-ctags as backend
+ctre: Compile-time PCRE-compatible regular expression matcher for C++
+custom-install: Install CIA files directly to Nintendo 3DS SD card
+cwalk: Cross-platform path library for C/C++
+datadog-static-analyzer: Static analysis tool for code quality and security                             dbcsr: Distributed Block Compressed Sparse Row matrix library
+depot: Build your Docker images in the cloud
+devcockpit: TUI system monitor for Apple Silicon                                                        diffnav: Git diff pager based on delta but with a file tree                                             difi: Pixel-perfect terminal diff viewer
+dnspyre: CLI tool for a high QPS DNS benchmark
+docker-language-server: Language server for Dockerfiles, Compose files, and Bake files
+dotnet@9: .NET Core
+dovi_convert: Dolby Vision Profile 7 to 8.1 MKV converter
+durdraw: Versatile ASCII and ANSI Art text editor for drawing in the terminal
+e1s: TUI for managing AWS ECS, inspired by k9s
+ekphos: Terminal-based markdown research tool inspired by Obsidian
+faketty: Wrapper to exec a command in a pty, even if redirecting the output
+fastrace: Dependency-free traceroute implementation in pure C                                           fence: Lightweight sandbox for commands with network and filesystem restrictions
+ffmpeg-full: Play, record, convert, and stream many audio and video codecs                              flecs: Fast entity component system for C & C++
+fnox: Fort Knox for your secrets - flexible secret management tool                                      fracturedjson: JSON formatter that produces highly readable but fairly compact output
+fresh-editor: Text editor for your terminal: easy, powerful and fast
+fzf-tab: Replace zsh completion selection menu with fzf                                                 garage: S3 object store so reliable you can run it outside datacenters
+gastown: Multi-agent workspace manager
+ghc@9.12: Glorious Glasgow Haskell Compilation System
+git-flow-next: Modern implementation of the Git-flow branching model
+git-get: Better way to clone, organize and manage multiple git repositories                             git-pages: Scalable static site server for Git forges
+git-pages-cli: Tool for publishing a site to a git-pages server
+git-xet: Git LFS plugin that uploads and downloads using the Xet protocol
+gitlogue: Cinematic Git commit replay tool
+gitnr: Create `.gitignore` using templates from TopTal, GitHub or your own collection
+global-arrays: Partitioned Global Address Space (PGAS) library for distributed arrays
+gnuastro: Astronomical data manipulation and analysis utilities and libraries
+go-air: Live reload for Go apps
+go@1.25: Open source programming language to build simple/reliable/efficient software
+goat: General purpose AT Protocol CLI in Go
+gogcli: Google Suite CLI
+gotun: Lightweight HTTP proxy over SSH
+grafanactl: CLI to interact with Grafana
+graphqlite: SQLite graph database extension
+gruyere: TUI program for viewing and killing processes listening on ports
+gtl: Greg's Template Library of useful classes
+gup: Update binaries installed by go install
+gwctl: CLI for managing and inspecting Gateway API resources in Kubernetes clusters
+hapless: Run and manage background processes
+happy-coder: CLI for operating AI coding agents from mobile devices
+hayagriva: Bibliography management tool
+hdrhistogram_c: C port of the HdrHistogram
+headscale-cli: CLI for headscale, an open-source implementation of the Tailscale control server
+headson: Head/tail for structured data
+helix-db: Open-source graph-vector database built from scratch in Rust
+hf-mcp-server: MCP Server for Hugging Face
+hindent: Haskell pretty printer
+html-to-markdown: Transforms HTML (even entire websites) into clean, readable Markdown
+ic-wasm: CLI tool for performing Wasm transformations specific to ICP canisters
+icp-cli: Development tool for building and deploying canisters on ICP
+imagemagick-full: Tools and libraries to manipulate images in many formats
+install-nothing: Simulates installing things but doesn't actually install anything
+ironclaw: Security-first personal AI assistant with WASM sandbox channels
+joyce: Emulates the Amstrad PCW on Unix, Windows and macOS
+jqfmt: Opinionated formatter for jq
+jsonfmt: Like gofmt, but for JSON files
+kaf: Modern CLI for Apache Kafka
+kagent: Kubernetes native framework for building AI agents
+kanata-tray: System tray for kanata keyboard remapper
+karakeep: CLI tool for self-hostable bookmark-everything app karakeep
+khaos: Kafka traffic simulator for observability and chaos engineering
+klog: Command-line tool for time tracking in a human-readable, plain-text file format
+kubefwd: Bulk port forwarding Kubernetes services for local development
+kubernetes-cli@1.34: Kubernetes command-line interface
+kyua: Testing framework for infrastructure software
+labctl: CLI tool for interacting with iximiuz labs and playgrounds
+ladybug: Embedded graph database built for query speed and scalability
+leetsolv: CLI tool for DSA problem revision with spaced repetition
+letta-code: Memory-first coding agent
+libaegis: Portable C implementations of the AEGIS family of encryption algorithms
+libevdev: Wrapper library for evdev devices
+libigloo: Generic C framework used and developed by the Icecast project
+libks: Foundational support for signalwire C products
+libnpupnp: C++ base UPnP library, derived from Portable UPnP, a.k.a libupnp
+libthai: Thai language support library
+libupnpp: C++ wrapper for libnpupnp
+likec4: Architecture modeling tool with live diagrams from code
+linux-headers@6.8: Header files of the Linux kernel
+lispkit: Scheme framework for extension and scripting languages on macOS and iOS
+litra: Control Logitech Litra lights from the command-line
+livereload: Local web server in Python
+llhttp: Port of http_parser to llparse
+llmfit: Find what models run on your hardware
+ls-hpack: HTTP/2 HPACK header compression library
+mac-cleanup-go: TUI macOS cleaner that scans caches/logs and lets you select what to delete
+macchanger: Change your mac address, for macOS
+magics: ECMWF's meteorological plotting software
+maigret: Collect a dossier on a person by username from thousands of sites
+mail-deduplicate: CLI to deduplicate mails from mail boxes
+mapscii: Whole World In Your Console
+matcha: Daily digest generator for your RSS feeds
+mbedtls@3: Cryptographic & SSL/TLS library
+mcp-scan: Constrain, log and scan your MCP connections for security vulnerabilities
+mdfried: Terminal markdown viewer
+micasa: TUI for tracking home projects, maintenance schedules, appliances and quotes
+minizign: Minisign reimplemented in Zig
+mipsel-linux-gnu-binutils: GNU Binutils for mipsel-linux-gnu cross development
+mistral-vibe: Minimal CLI coding agent
+mitama-cpp-result: Provides `result<T, E>` and `maybe<T>` and monadic functions for them
+mlx-c: C API for MLX
+mole: Deep clean and optimize your Mac
+mq: Jq-like command-line tool for markdown processing
+mufetch: Neofetch-style music cli
+nativefiledialog-extended: Native file dialog library with C and C++ bindings
+neo4j-mcp: Neo4j official Model Context Protocol server for AI tools
+netshow: Interactive network connection monitor with friendly service names
+nkt: TUI for fast and simple interacting with your BibLaTeX database
+nomad-pack: Templating and packaging tool used with HashiCorp Nomad
+nullclaw: Tiny autonomous AI assistant infrastructure written in Zig
+nuls: NuShell-inspired ls with colorful table output
+octodns: Tools for managing DNS across multiple providers
+odiff: Very fast SIMD-first image comparison library (with nodejs API)
+openskills: Universal skills loader for AI coding agents
+oxfmt: High-performance formatting tool for JavaScript and TypeScript
+pake: Turn any webpage into a desktop app with Rust with ease
+papeer: Convert websites into eBooks and Markdown
+papis: Powerful command-line document and bibliography manager
+parqeye: Peek inside Parquet files right from your terminal
+patchpal: AI Assisted Patch Backporting Tool Frontend
+pcapmirror: Tool for capturing network traffic on remote host using TZSP or ERSPAN
+pgroll: Postgres zero-downtime migrations made easy
+phantom: CLI tool for seamless parallel development with Git worktrees
+php@8.4: General-purpose scripting language
+pi-coding-agent: AI agent toolkit
+picoclaw: Ultra-efficient personal AI assistant in Go
+picoruby: Smallest Ruby implementation for microcontrollers
+pixlet: App runtime and UX toolkit for pixel-based apps
+playwright-cli: CLI for Playwright: record/generate code, inspect selectors, take screenshots
+pocket-tts: Text-to-speech application designed to run efficiently on CPUs
+pvetui: Terminal UI for Proxmox VE
+py7zr: 7-zip in Python
+pyperformance: Python benchmark suite
+qo: Interactive minimalist TUI to query JSON, CSV, and TSV using SQL
+qqqa: Fast, stateless LLM for your shell: qq answers; qa runs commands
+rad: Modern CLI scripts made easy
+radicle: Sovereign code forge built on Git
+ralph-orchestrator: Multi-agent orchestration framework for autonomous AI task completion
+redis@8.2: Persistent key-value database, with built-in net interface
+redu: Ncdu for your restic repository
+repeater: Flashcard program that uses spaced repetition
+resterm: Terminal client for .http/.rest files with HTTP, GraphQL, and gRPC support
+rig-r: R Installation Manager
+rmrfrs: Filesystem cleaning tool
+rockcraft: Tool to create OCI images using the language from Snapcraft and Charmcraft
+rtk: CLI proxy to minimize LLM token consumption
+ruby@3.4: Powerful, clean, object-oriented scripting language
+run-kit: Universal multi-language runner and smart REPL
+rustledger: Fast, pure Rust implementation of Beancount double-entry accounting
+rustypaste: Minimal file upload/pastebin service
+rv-r: Declarative R package manager
+sandvault: Run AI agents isolated in a sandboxed macOS user account
+save3ds_fuse: Extract/Import/FUSE for 3DS save/extdata/database
+shadcn: CLI for adding components to your project
+sheenbidi: Fast and stable implementation of the Unicode Bidirectional Algorithm
+shiki: Beautiful yet powerful syntax highlighter
+signalwire-client-c: SignalWire C Client SDK
+skillshare: Sync skills across AI CLI tools
+slicot: Fortran subroutines library for systems and control
+snitch: Prettier way to inspect network connections
+spiffe-helper: Tool that can be used to retrieve and manage SVIDs on behalf of a workload
+sss-cli: Shamir secret share command-line interface
+static-web-apps-cli: SWA CLI serves as a local development tool for Azure Static Web Apps
+strands-agents-sops: Standard Operating Procedures for AI agents using natural language
+structurizr: Software architecture models as code
+superseedr: BitTorrent Client in your Terminal
+svt-vp9: Scalable Video Technology for VP9 Encoder
+svu: Semantic version utility
+talm: Manage Talos Linux configurations the GitOps way
+termshot: Creates screenshots based on terminal command output
+tfclean: Remove applied moved block, import block, etc
+tftp-now: Single-binary TFTP server and client that you can use right now
+thorvg: Lightweight portable library used for drawing vector-based scenes and animations
+tock: Powerful time tracking tool for the command-line
+toktop: LLM usage monitor in terminal
+topydo: Todo list application using the todo.txt format
+torrra: Find and download torrents without leaving your CLI
+tpix: Simple terminal image viewer using the Kitty graphics protocol
+transifex-cli: Transifex command-line client
+tree-sitter-go: Go grammar for tree-sitter
+tree-sitter-python: Python grammar for tree-sitter
+tree-sitter-ruby: Ruby grammar for tree-sitter
+tree-sitter@0.25: Incremental parsing library
+treemd: TUI and CLI dual pane markdown viewer
+tronbyt-server: Manage your apps on your Tronbyt (flashed Tidbyt) completely locally
+try-rs: Temporary workspace manager for fast experimentation in the terminal
+tuckr: Super powered replacement for GNU Stow
+ty: Extremely fast Python type checker, written in Rust
+umoci: Reference OCI implementation for creating, modifying and inspecting images
+vacuum: World's fastest OpenAPI & Swagger linter
+vampire: High-performance theorem prover
+vibecheck: AI-powered git commit assistant written in Go
+vtsls: LSP wrapper for typescript extension of vscode
+wasm-bindgen: Facilitating high-level interactions between Wasm modules and JavaScript
+whodb-cli: Database management CLI with TUI interface, MCP server support, AI, and more
+whosthere: LAN discovery tool with a modern TUI written in Go
+wifitui: Fast featureful friendly wifi terminal UI
+wik: View Wikipedia pages from your terminal
+witr: Why is this running?
+worktrunk: CLI for Git worktree management, designed for parallel AI agent workflows
+wuchale: Protobuf-like i18n from plain code
+xcp: Fast & lightweight command-line tool for managing Xcode projects, built in Swift
+xcsift: Swift tool to parse xcodebuild output for coding agents
+xleak: Terminal Excel viewer with an interactive TUI
+yap: On-device audio transcription using Speech.framework
+zeptoclaw: Lightweight personal AI gateway with layered safety controls
+zeroclaw: Rust-first autonomous agent runtime
+zxing-cpp: Multi-format barcode image processing library written in C++
+==> New Casks
+8bitdo-ultimate-software-v2: Control every piece of your controller
+airscroll: Smooth mouse scrolling utility
+aks-desktop: Azure Kubernetes Service desktop application
+alma: AI chat application
+amical: AI dictation app
+antigravity: AI Coding Agent IDE
+appbox: iOS app distribution tool
+appvolume: Per-application volume control
+aquaskk@prerelease: Input method without morphological analysis
+athas: Lightweight code editor
+ausweisapp: Official eID-Client of the Federal Government of Germany
+auto-claude: Autonomous multi-session AI coding
+aya: Android ADB desktop app
+bettershot: Screen capturing and editing tool
+boltai@1: AI chat client
+brewy: Simple Homebrew GUI
+butterkit: App Store screenshots editor
+cadreader: CAD drawing viewer
+calendr: Menu bar calendar
+captains-deck: Dual-pane file manager inspired by Norton Commander
+cardinal-search: Fastest file searching tool
+chatglm: Desktop client for the ChatGLM AI chatbot
+clash-mi: Another Mihomo GUI based on Flutter
+claude-devtools: Visualise and analyse Claude Code session executions
+claude-island: Dynamic Island-style notifications for Claude Code CLI sessions
+claudebar: Menu bar app for monitoring AI coding assistant usage quotas
+clipaste: Clipboard history manager
+codebuddy: AI-powered adaptive IDE
+codebuddy-cn: AI-powered adaptive IDE (Chinese version)
+codex-app: OpenAI's Codex desktop app for managing coding agents
+codexbar: Menu bar usage monitor for Codex and Claude
+codexmonitor: Monitor Codex activity
+comet: Web browser with integrated AI assistant
+commander: AI agent operator
+conar: AI-powered database and data management tool
+copilot-cli: Brings the power of Copilot coding agent directly to your terminal
+copilot-cli@prerelease: Brings the power of Copilot coding agent directly to your terminal
+crypto-native-app-ng: Encrypts and signs data on your computer and communicates with browser extension
+daruma: Track your goals using the Daruma Method
+datadog-security-cli: Datadog Security Product CLI
+desktop-composer: Appearance manager for the system and individual applications
+digiexam: Academic testing platform with device lockdown
+dnclient: Peer-to-peer VPN client for managed nebula networks
+donut: Anti-detect web browser
+donut@nightly: Anti-detect web browser
+dot: Menu bar calendar with meeting reminders
+eigent: Desktop AI agent
+elegoo-slicer: Open-source slicer for FDM 3D printers
+elgato-studio: Capture and manage Elgato devices for content creation
+ethui: Ethereum development toolkit with wallet and anvil support
+excire-search: Lightroom Classic plugin with automatic keywording and advanced search
+extradock: Add fully customizable extra docks
+ferdium@nightly: Multi-platform multi-messaging app
+filo: AI-powered email client designed for Gmail
+finetune: Per-application volume mixer, equalizer, and audio router
+font-allkin
+font-alyamama
+font-amarna
+font-bbh-bartle
+font-bbh-bogle
+font-bbh-hegarty
+font-betania-patmos
+font-betania-patmos-gdl
+font-betania-patmos-guide-line
+font-betania-patmos-in
+font-betania-patmos-in-gdl
+font-bpmf-huninn
+font-bpmf-iansui
+font-bpmf-zihi-kai-std
+font-cause
+font-dejavu-sans
+font-geom
+font-guguru-sans-code
+font-guguru-sans-code-nf
+font-gveret-levin
+font-idiqlat
+font-kikai-chokoku-jis
+font-line-seed-jp
+font-playwrite-nz-basic
+font-playwrite-nz-basic-guides
+font-psudofont-liga-mono
+font-ramsina
+font-sekuya
+font-zxgamut
+fontra-pak: Browser-based font editor
+fork@dev: Git client
+freeshow@beta: Presentation software
+gitfit: Micro-workouts while waiting for AI code generation
+glide: Tiling window manager with tree layouts
+glkvm: App for controlling GL.iNet KVM devices
+gonhanh: Vietnamese input method engine
+hyperwhisper: AI-powered speech-to-text transcription
+hytale: Official Hytale Launcher
+iloader: iOS Sideloading Companion
+impactor: Sideloading application for iOS/tvOS
+infinidesk: Create multiple virtual desktops, each with unique files, wallpaper and widgets
+ipaverse: Tool for downloading and managing iOS apps from the App Store
+karing: Proxy utility
+kitlangton-hex: Voice-to-text transcription and paste tool
+kogiqa: UI automation tool using natural language descriptions
+kubeterm: Kubernetes graphical management tool
+locu: Daily planner and focus timer
+lolgato: Enhances control over Elgato lights
+luxury-yacht: Desktop app for managing Kubernetes clusters
+m32-edit: Remote control for Midas M32 audio consoles
+macdown-3000: Markdown editor with live preview and syntax highlighting
+mace: Simplify compliance baseline creation, auditing, and management
+macpulse: System monitoring dashboard with historical analytics
+macusb: Tool to create bootable USB installers
+maestro: AI agent command center
+maru-jan: Play japanese mahjong online
+mcpbundler: MCP servers and Agent skills management app
+meituxiuxiu: Photo editing and beautification software
+middledrag: Middle-click and middle-drag via three-finger trackpad gestures
+mindwtr: Local-first GTD productivity tool
+monocle-app: Window dimming utility
+monologue: AI voice dictation that adapts to your writing style
+mos@beta: Smooths scrolling and set mouse scroll directions independently
+motionik: Screen recording software
+mountmate: Menubar app to easily manage external drives
+mozregression-gui: Interactive regression range finder for Firefox and other Mozilla products
+mpluginmanager: Installer for MeldaProduction audio plugins
+mstystudio: AI platform with local and online models
+nani: AI-powered translator
+nanoleaf: Control your Nanoleaf lights
+nessie-app: Knowledge base from AI chats
+netviews: Network and Wi-Fi diagnostic tool
+nostalgiapp: Launcher for eXoDOS and retro game collections
+notepadexe: Lightweight code editor
+novation-components: Manager and updater for Novation hardware
+novation-play: Virtual instrument for Novation Launchkey MK4 hardware
+nugget: Customise your iOS device with animated wallpapers, disable daemons and more
+opencode-desktop: AI coding agent desktop client
+opencomic: Comic and Manga reader
+oracle-data-modeler: Graphical tool for data modeling tasks
+owocr: Optical character recognition for Japanese text
+pangolin: Identity-aware VPN and proxy for remote access
+papercut-mobility-print-client: Client for printing to PaperCut Mobility Print queues
+pika@beta: Colour picker for colours onscreen
+plasticity: 3D modeling software for concept artists and designers
+plaud: AI note-taking for online meetings, phone calls, and in-person conversations
+portalbox: Share a region of your screen in video calls
+proscoreboard: Scoreboard software
+provideoplayer: Presentation software
+psiphon-conduit: Psiphon network proxy tool
+qianwen: AI assistant and chatbot powered by Alibaba's Qwen model
+qqnews: Tencent News client
+repobar: Menu bar dashboard for GitHub repository health
+retrace: Local-first screen recording and search application
+rocketman-choices-packager: Utility for customising installer package choices
+seam-app: Productivity-first Dynamic Island for your Notch
+sky: Bluesky Social client
+smartsheet: Spreadsheet-style project management solution
+snapmaker-orca: Slicing software for Snapmaker 3D printers, a fork of OrcaSlicer
+sodamusic: Music app
+sourcegit: Git GUI client
+stirling-pdf: PDF utility
+stremio@beta: Open-source media center
+stremioservice: Companion app for Stremio Web
+supacode: Native terminal coding agents command center
+superset: Terminal for orchestrating agents
+support: Menu bar app for user and help desk support
+swiftdialog: Admin utility that presents custom dialogs or messages from shell scripts
+tana: Knowledge management workspace with AI-powered outlining
+taobao: Online Shopping Client
+taphouse: Native GUI for Homebrew package management
+thaw: Menu bar manager
+thaw@beta: Menu bar manager
+thecommander: Dual-panel file manager inspired by Total Commander
+threema-work@beta: End-to-end encrypted instant messaging application
+transmission@beta: Open-source BitTorrent client
+trimmy: Paste-once, run-once clipboard cleaner for terminal snippets
+tritium: Integrated drafting environment for legal professionals
+typeless: AI voice dictation that turns speech into polished text
+updatest: Utility that shows the latest app updates
+uuremote: NetEase UU remote desktop access and control tool
+vcamapp: Face-tracking virtual avatar app
+visualdiffer: Visually compare folders and files
+vocaster-hub: Interface controller for Focusrite Vocaster One and Two
+wailbrew: Manage Homebrew packages with a UI
+waveforms: Virtual instrument suite for Digilent Test and Measurement devices
+white-rabbit: SVG utility and optimiser
+whyfi: Menu bar Wi-Fi monitor and diagnostics app
+wireless-workbench: Desktop app for RF coordination and wireless system management
+wiso-steuer-2026: Tax declaration for the fiscal year 2025
+wispr-flow: Voice-to-text dictation with AI-powered auto-editing
+xkey: Vietnamese input method engine
+xmlmind-editor: Strictly validating near WYSIWYG XML editor
+yandextelemost: Yandex video calls and meetings platform
+yingfu-online: Education app for teens
+yoink: Drag and drop utility
+zedis: Redis GUI built with Rust and GPUI
+zo: Friendly personal server
+
+You have 178 outdated formulae and 2 outdated casks installed.
+
+==> Fetching downloads for: pkgconf
+✔︎ Bottle Manifest pkgconf (2.5.1)                                            Downloaded   12.2KB/ 12.2KB
+✔︎ Bottle pkgconf (2.5.1)                                                     Downloaded  121.7KB/121.7KB
+==> Reinstalling pkgconf
+==> Pouring pkgconf--2.5.1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/pkgconf/2.5.1: 28 files, 532.2KB
+==> Reinstalled pkgconf due to macOS version mismatch
+openssl@3 3.6.0 is already installed but outdated (so it will be upgraded).
+readline  is already installed but outdated (so it will be upgraded).
+sqlite  is already installed but outdated (so it will be upgraded).
+xz 5.8.1 is already installed but outdated (so it will be upgraded).
+zlib  is already installed but outdated (so it will be upgraded).
+tcl-tk 9.0.1 is already installed but outdated (so it will be upgraded).
+==> Fetching downloads for: openssl@3, readline, sqlite, xz, zlib and tcl-tk
+✔︎ Bottle Manifest openssl@3 (3.6.1)                                          Downloaded   11.8KB/ 11.8KB
+✔︎ Bottle Manifest readline (8.3.3)                                           Downloaded   10.0KB/ 10.0KB
+✔︎ Bottle Manifest sqlite (3.51.2_1)                                          Downloaded   11.5KB/ 11.5KB
+✔︎ Bottle Manifest zlib (1.3.2)                                               Downloaded    7.2KB/  7.2KB
+✔︎ Bottle Manifest tcl-tk (9.0.3)                                             Downloaded   14.0KB/ 14.0KB
+✔︎ Bottle Manifest xz (5.8.2)                                                 Downloaded   11.8KB/ 11.8KB
+✔︎ Bottle Manifest ca-certificates (2025-12-02)                               Downloaded    2.0KB/  2.0KB
+✔︎ Bottle ca-certificates (2025-12-02)                                        Downloaded  131.8KB/131.8KB
+✔︎ Bottle readline (8.3.3)                                                    Downloaded  757.9KB/757.9KB
+✔︎ Bottle sqlite (3.51.2_1)                                                   Downloaded    2.4MB/  2.4MB
+✔︎ Bottle xz (5.8.2)                                                          Downloaded  764.3KB/764.3KB
+✔︎ Bottle zlib (1.3.2)                                                        Downloaded  145.2KB/145.2KB
+✔︎ Bottle tcl-tk (9.0.3)                                                      Downloaded   10.0MB/ 10.0MB
+✔︎ Bottle openssl@3 (3.6.1)                                                   Downloaded   10.9MB/ 10.9MB
+==> Upgrading openssl
+  3.6.0 -> 3.6.1
+==> Installing openssl@3 dependency: ca-certificates
+==> Pouring ca-certificates--2025-12-02.all.bottle.1.tar.gz
+==> Regenerating CA certificate bundle from keychain, this may take a while...
+🍺  /opt/homebrew/Cellar/ca-certificates/2025-12-02: 4 files, 236.4KB
+==> Pouring openssl@3--3.6.1.arm64_tahoe.bottle.tar.gz
+==> Caveats
+To add additional certificates, place .pem files in
+  /opt/homebrew/etc/openssl@3/certs
+
+and run
+  /opt/homebrew/opt/openssl@3/bin/c_rehash
+==> Summary
+🍺  /opt/homebrew/Cellar/openssl@3/3.6.1: 7,624 files, 37.6MB
+==> Running `brew cleanup openssl@3`...
+Disable this behaviour by setting `HOMEBREW_NO_INSTALL_CLEANUP=1`.
+Hide these hints with `HOMEBREW_NO_ENV_HINTS=1` (see `man brew`).
+Removing: /opt/homebrew/Cellar/openssl@3/3.6.0... (7,609 files, 37.7MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/openssl@3_bottle_manifest--3.6.0... (11.8KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/openssl@3--3.6.0... (10.9MB)
+==> Pouring readline--8.3.3.arm64_tahoe.bottle.tar.gz
+==> Caveats
+readline is keg-only, which means it was not symlinked into /opt/homebrew,
+because macOS provides BSD libedit.
+
+For compilers to find readline you may need to set:
+  export LDFLAGS="-L/opt/homebrew/opt/readline/lib"
+  export CPPFLAGS="-I/opt/homebrew/opt/readline/include"
+
+For pkgconf to find readline you may need to set:
+  export PKG_CONFIG_PATH="/opt/homebrew/opt/readline/lib/pkgconfig"
+==> Summary
+🍺  /opt/homebrew/Cellar/readline/8.3.3: 56 files, 2.7MB
+==> Running `brew cleanup readline`...
+Removing: /opt/homebrew/Cellar/readline/8.3.1... (56 files, 2.7MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/readline_bottle_manifest--8.3.1... (12.3KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/readline--8.3.1... (758.2KB)
+==> Pouring sqlite--3.51.2_1.arm64_tahoe.bottle.tar.gz
+==> Caveats
+sqlite is keg-only, which means it was not symlinked into /opt/homebrew,
+because macOS already provides this software and installing another version in
+parallel can cause all kinds of trouble.
+
+If you need to have sqlite first in your PATH, run:
+  echo 'export PATH="/opt/homebrew/opt/sqlite/bin:$PATH"' >> ~/.zshrc
+
+For compilers to find sqlite you may need to set:
+  export LDFLAGS="-L/opt/homebrew/opt/sqlite/lib"
+  export CPPFLAGS="-I/opt/homebrew/opt/sqlite/include"
+
+For pkgconf to find sqlite you may need to set:
+  export PKG_CONFIG_PATH="/opt/homebrew/opt/sqlite/lib/pkgconfig"
+==> Summary
+🍺  /opt/homebrew/Cellar/sqlite/3.51.2_1: 13 files, 5.2MB
+==> Running `brew cleanup sqlite`...
+Removing: /opt/homebrew/Cellar/sqlite/3.51.0... (13 files, 5.2MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/sqlite_bottle_manifest--3.51.0... (11.4KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/sqlite--3.51.0... (2.4MB)
+==> Upgrading xz
+  5.8.1 -> 5.8.2
+==> Pouring xz--5.8.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/xz/5.8.2: 96 files, 2.7MB
+==> Running `brew cleanup xz`...
+Removing: /opt/homebrew/Cellar/xz/5.8.1... (96 files, 2.6MB)
+==> Pouring zlib--1.3.2.arm64_tahoe.bottle.tar.gz
+==> Caveats
+zlib is keg-only, which means it was not symlinked into /opt/homebrew,
+because macOS already provides this software and installing another version in
+parallel can cause all kinds of trouble.
+
+For compilers to find zlib you may need to set:
+  export LDFLAGS="-L/opt/homebrew/opt/zlib/lib"
+  export CPPFLAGS="-I/opt/homebrew/opt/zlib/include"
+
+For pkgconf to find zlib you may need to set:
+  export PKG_CONFIG_PATH="/opt/homebrew/opt/zlib/lib/pkgconfig"
+==> Summary
+🍺  /opt/homebrew/Cellar/zlib/1.3.2: 14 files, 423.7KB
+==> Running `brew cleanup zlib`...
+Removing: /opt/homebrew/Cellar/zlib/1.3.1... (13 files, 410.6KB)
+==> Upgrading tcl-tk
+  9.0.1 -> 9.0.3
+==> Pouring tcl-tk--9.0.3.arm64_tahoe.bottle.1.tar.gz
+==> Caveats
+The sqlite3_analyzer binary is in the `sqlite-analyzer` formula.
+==> Summary
+🍺  /opt/homebrew/Cellar/tcl-tk/9.0.3: 3,158 files, 40MB
+==> Running `brew cleanup tcl-tk`...
+Removing: /opt/homebrew/Cellar/tcl-tk/9.0.1... (3,150 files, 39.9MB)
+==> Upgrading 76 dependents of upgraded formulae:
+Disable this behaviour by setting `HOMEBREW_NO_INSTALLED_DEPENDENTS_CHECK=1`.
+Hide these hints with `HOMEBREW_NO_ENV_HINTS=1` (see `man brew`).
+boost 1.89.0_1 -> 1.90.0_1, ccache 4.11.3_1 -> 4.12.3, ceres-solver 2.2.0_3 -> 2.2.0_6, cgns 4.5.0 -> 4.5.1_1, curl 8.17.0 -> 8.18.0_2, gcc 15.2.0 -> 15.2.0_1, gnupg 2.4.8 -> 2.4.9, hdf5 1.14.6 -> 2.0.0_1, julia 1.12.1 -> 1.12.5, libarchive 3.8.2 -> 3.8.5_1, libtiff 4.7.1 -> 4.7.1_1, jpeg-xl 0.11.1_3 -> 0.11.2, leptonica 1.86.0 -> 1.87.0, ffmpeg 8.0_2 -> 8.0.1_4, libavif 1.3.0 -> 1.3.0_1, libzip 1.11.4 -> 1.11.4_1, little-cms2 2.17 -> 2.18, netcdf 4.9.3_1 -> 4.9.3_2, numpy 2.3.4 -> 2.4.2, openblas 0.3.30 -> 0.3.31_1, openblas64 0.3.30 -> 0.3.31, openjph 0.25.2 -> 0.26.3, openexr 3.4.3 -> 3.4.5, opencv 4.12.0_15 -> 4.13.0_3, openvino 2025.3.0_4 -> 2025.4.1_3, php 8.4.8 -> 8.5.3, pipx 1.7.1_1 -> 1.8.0, proj 9.7.0 -> 9.7.1, pyenv 2.5.3 -> 2.6.23, python-tk@3.13 3.13.5 -> 3.13.12, python@3.12 3.12.9 -> 3.12.12_2, python@3.13 3.13.5 -> 3.13.12_1, python@3.14 3.14.0_1 -> 3.14.3_1, qemu 10.0.2_2 -> 10.2.1, qtbase 6.9.3_1 -> 6.10.2, qtdeclarative 6.9.3 -> 6.10.2, qt3d 6.9.3 -> 6.10.2, qt5compat 6.9.3_1 -> 6.10.2, qtcharts 6.9.3 -> 6.10.2, qtconnectivity 6.9.3 -> 6.10.2, qtdatavis3d 6.9.3 -> 6.10.2, qtgraphs 6.9.3 -> 6.10.2, qtgrpc 6.9.3_2 -> 6.10.2, qthttpserver 6.9.3 -> 6.10.2, qtimageformats 6.9.3 -> 6.10.2, qtlanguageserver 6.9.3 -> 6.10.2, qtlocation 6.9.3 -> 6.10.2, qtlottie 6.9.3 -> 6.10.2, qtnetworkauth 6.9.3 -> 6.10.2, qtpositioning 6.9.3 -> 6.10.2, qtquicktimeline 6.9.3 -> 6.10.2, zstd 1.5.7 -> 1.5.7_1, qtquick3d 6.9.3 -> 6.10.2, qtmultimedia 6.9.3 -> 6.10.2, qtquick3dphysics 6.9.3 -> 6.10.2, qtquickeffectmaker 6.9.3 -> 6.10.2, qtremoteobjects 6.9.3 -> 6.10.2, qtscxml 6.9.3 -> 6.10.2, qtserialport 6.9.3 -> 6.10.2, qtserialbus 6.9.3 -> 6.10.2, qtshadertools 6.9.3 -> 6.10.2, qtsvg 6.9.3 -> 6.10.2, qtsensors 6.9.3 -> 6.10.2, qtspeech 6.9.3 -> 6.10.2, qttools 6.9.3 -> 6.10.2, qtvirtualkeyboard 6.9.3 -> 6.10.2, qtwebchannel 6.9.3 -> 6.10.2, qt 6.9.3 -> 6.10.2, qtwebengine 6.9.3_2 -> 6.10.2, qtwebsockets 6.9.3 -> 6.10.2, qtwebview 6.9.3 -> 6.10.2, rbenv-gemset 0.5.10 -> 0.5.100, ruby-build 20250215 -> 20260222, suite-sparse 7.12.1 -> 7.12.2, tesseract 5.5.1_1 -> 5.5.2, vtk 9.5.2_1 -> 9.5.2_3
+==> Fetching downloads for: zstd, gcc, openblas64, libarchive, curl, openblas, gnupg, hdf5, suite-sparse, julia, libtiff, little-cms2, openjph, openexr, jpeg-xl, leptonica, ffmpeg, libavif, libzip, netcdf, numpy, ceres-solver, openvino, python@3.14, tesseract, boost, cgns, proj, qtbase, qtsvg, qtdeclarative, vtk, opencv, php, pipx, pyenv, python@3.13, python-tk@3.13, python@3.12, qemu, qtshadertools, qt3d, qt5compat, qtcharts, qtconnectivity, qtdatavis3d, qtquicktimeline, qtquick3d, qtgraphs, qtgrpc, qtwebsockets, qthttpserver, qtimageformats, qtlanguageserver, qtserialport, qtpositioning, qtlocation, qtlottie, qtnetworkauth, qtmultimedia, qtquick3dphysics, qtquickeffectmaker, qtremoteobjects, qtscxml, qtserialbus, qtsensors, qtspeech, qttools, qtvirtualkeyboard, qtwebchannel, qtwebengine, qtwebview, qt, ruby-build, rbenv-gemset and ccache
+✔︎ Bottle zstd (1.5.7_1)                                                      Downloaded  793.6KB/793.6KB
+✔︎ Bottle openblas64 (0.3.31)                                                 Downloaded   17.6MB/ 17.6MB
+✔︎ Bottle libarchive (3.8.5_1)                                                Downloaded    1.6MB/  1.6MB
+✔︎ Bottle Manifest libnghttp3 (1.15.0)                                        Downloaded    7.3KB/  7.3KB
+✔︎ Bottle libnghttp3 (1.15.0)                                                 Downloaded  188.8KB/188.8KB
+✔︎ Bottle Manifest libngtcp2 (1.20.0)                                         Downloaded    9.3KB/  9.3KB
+✔︎ Bottle libngtcp2 (1.20.0)                                                  Downloaded  397.1KB/397.1KB
+✔︎ Bottle Manifest libssh2 (1.11.1_1)                                         Downloaded   12.1KB/ 12.1KB
+✔︎ Bottle libssh2 (1.11.1_1)                                                  Downloaded  422.9KB/422.9KB
+✔︎ Bottle curl (8.18.0_2)                                                     Downloaded    1.6MB/  1.6MB
+✔︎ Bottle Manifest libomp (21.1.8)                                            Downloaded   11.9KB/ 11.9KB
+✔︎ Bottle libomp (21.1.8)                                                     Downloaded  586.2KB/586.2KB
+✔︎ Bottle openblas (0.3.31_1)                                                 Downloaded   16.8MB/ 16.8MB
+✔︎ Bottle Manifest gettext (1.0)                                              Downloaded   13.7KB/ 13.7KB
+✔︎ Bottle gettext (1.0)                                                       Downloaded   10.2MB/ 10.2MB
+✔︎ Bottle Manifest libtasn1 (4.21.0)                                          Downloaded    7.9KB/  7.9KB
+✔︎ Bottle libtasn1 (4.21.0)                                                   Downloaded  165.3KB/165.3KB
+✔︎ Bottle Manifest p11-kit (0.26.2)                                           Downloaded   10.0KB/ 10.0KB
+✔︎ Bottle p11-kit (0.26.2)                                                    Downloaded  992.2KB/992.2KB
+✔︎ Bottle Manifest unbound (1.24.2)                                           Downloaded   14.0KB/ 14.0KB
+✔︎ Bottle unbound (1.24.2)                                                    Downloaded    3.0MB/  3.0MB
+✔︎ Bottle Manifest gnutls (3.8.12)                                            Downloaded   19.5KB/ 19.5KB
+✔︎ Bottle gnutls (3.8.12)                                                     Downloaded    3.3MB/  3.3MB
+✔︎ Bottle Manifest libgpg-error (1.59)                                        Downloaded    9.3KB/  9.3KB
+✔︎ Bottle libgpg-error (1.59)                                                 Downloaded  578.0KB/578.0KB
+✔︎ Bottle Manifest libgcrypt (1.12.1)                                         Downloaded   10.3KB/ 10.3KB
+✔︎ Bottle libgcrypt (1.12.1)                                                  Downloaded    1.5MB/  1.5MB
+✔︎ Bottle Manifest pinentry (1.3.2)                                           Downloaded   20.0KB/ 20.0KB
+✔︎ Bottle pinentry (1.3.2)                                                    Downloaded  132.4KB/132.4KB
+✔︎ Bottle gnupg (2.4.9)                                                       Downloaded    5.4MB/  5.4MB
+✔︎ Bottle Manifest libaec (1.1.6)                                             Downloaded    7.2KB/  7.2KB
+✔︎ Bottle libaec (1.1.6)                                                      Downloaded   57.6KB/ 57.6KB
+✔︎ Bottle hdf5 (2.0.0_1)                                                      Downloaded    9.9MB/  9.9MB
+✔︎ Bottle suite-sparse (7.12.2)                                               Downloaded   17.8MB/ 17.8MB
+✔︎ Bottle Manifest libgit2 (1.9.2_1)                                          Downloaded   11.0KB/ 11.0KB
+✔︎ Bottle libgit2 (1.9.2_1)                                                   Downloaded    2.0MB/  2.0MB
+✔︎ Bottle Manifest pcre2 (10.47_1)                                            Downloaded   11.7KB/ 11.7KB
+✔︎ Bottle pcre2 (10.47_1)                                                     Downloaded    2.4MB/  2.4MB
+✔︎ Bottle Manifest utf8proc (2.11.3)                                          Downloaded    7.5KB/  7.5KB
+✔︎ Bottle utf8proc (2.11.3)                                                   Downloaded  107.2KB/107.2KB
+✔︎ Bottle Manifest jpeg-turbo (3.1.3)                                         Downloaded    8.3KB/  8.3KB
+✔︎ Bottle jpeg-turbo (3.1.3)                                                  Downloaded    1.1MB/  1.1MB
+✔︎ Bottle libtiff (4.7.1_1)                                                   Downloaded    1.9MB/  1.9MB
+✔︎ Bottle little-cms2 (2.18)                                                  Downloaded  434.8KB/434.8KB
+✔︎ Bottle openjph (0.26.3)                                                    Downloaded  157.7KB/157.7KB
+✔︎ Bottle openexr (3.4.5)                                                     Downloaded    1.1MB/  1.1MB
+✔︎ Bottle Manifest libpng (1.6.55)                                            Downloaded    8.6KB/  8.6KB
+✔︎ Bottle libpng (1.6.55)                                                     Downloaded  459.4KB/459.4KB
+✔︎ Bottle leptonica (1.87.0)                                                  Downloaded    2.7MB/  2.7MB
+✔︎ Bottle Manifest dav1d (1.5.3)                                              Downloaded    7.6KB/  7.6KB
+✔︎ Bottle dav1d (1.5.3)                                                       Downloaded  364.6KB/364.6KB
+✔︎ Bottle Manifest libvpx (1.16.0)                                            Downloaded    7.3KB/  7.3KB
+✔︎ Bottle libvpx (1.16.0)                                                     Downloaded    1.9MB/  1.9MB
+✔︎ Bottle Manifest opus (1.6.1)                                               Downloaded    7.3KB/  7.3KB
+✔︎ Bottle opus (1.6.1)                                                        Downloaded  505.2KB/505.2KB
+✔︎ Bottle Manifest svt-av1 (4.0.1)                                            Downloaded    7.7KB/  7.7KB
+✔︎ Bottle svt-av1 (4.0.1)                                                     Downloaded    1.3MB/  1.3MB
+✔︎ Bottle ffmpeg (8.0.1_4)                                                    Downloaded   21.1MB/ 21.1MB
+✔︎ Bottle libavif (1.3.0_1)                                                   Downloaded  316.0KB/316.0KB
+✔︎ Bottle libzip (1.11.4_1)                                                   Downloaded  144.8KB/144.8KB
+✔︎ Bottle netcdf (4.9.3_2)                                                    Downloaded    1.3MB/  1.3MB
+✔︎ Bottle numpy (2.4.2)                                                       Downloaded    9.4MB/  9.4MB
+✔︎ Bottle Manifest gflags (2.3.0)                                             Downloaded    7.7KB/  7.7KB
+✔︎ Bottle gflags (2.3.0)                                                      Downloaded  224.5KB/224.5KB
+✔︎ Bottle Manifest glog (0.7.1)                                               Downloaded    8.2KB/  8.2KB
+✔︎ Bottle glog (0.7.1)                                                        Downloaded  124.7KB/124.7KB
+✔︎ Bottle ceres-solver (2.2.0_6)                                              Downloaded    3.5MB/  3.5MB
+✔︎ Bottle Manifest abseil (20260107.1)                                        Downloaded   63.0KB/ 63.0KB
+✔︎ Bottle abseil (20260107.1)                                                 Downloaded    1.9MB/  1.9MB
+✔︎ Bottle Manifest protobuf (33.4_1)                                          Downloaded   10.5KB/ 10.5KB
+✔︎ Bottle protobuf (33.4_1)                                                   Downloaded    3.6MB/  3.6MB
+✔︎ Bottle Manifest onnx (1.20.1_2)                                            Downloaded    9.2KB/  9.2KB
+✔︎ Bottle onnx (1.20.1_2)                                                     Downloaded    1.3MB/  1.3MB
+✔︎ Bottle openvino (2025.4.1_3)                                               Downloaded   26.6MB/ 26.6MB
+✔︎ Bottle Manifest glib (2.86.4)                                              Downloaded   20.3KB/ 20.3KB
+✔︎ Bottle Manifest xorgproto (2025.1)                                         Downloaded   13.1KB/ 13.1KB
+✔︎ Bottle xorgproto (2025.1)                                                  Downloaded  720.1KB/720.1KB
+✔︎ Bottle Manifest libdatrie (0.2.14)                                         Downloaded    7.8KB/  7.8KB
+✔︎ Bottle libdatrie (0.2.14)                                                  Downloaded   70.5KB/ 70.5KB
+✔︎ Bottle Manifest libthai (0.1.30)                                           Downloaded    8.2KB/  8.2KB
+✔︎ Bottle libthai (0.1.30)                                                    Downloaded  277.4KB/277.4KB
+✔︎ Bottle Manifest icu4c@78 (78.2)                                            Downloaded    9.7KB/  9.7KB
+✔︎ Bottle cgns (4.5.1_1)                                                      Downloaded  765.3KB/765.3KB
+✔︎ Bottle Manifest double-conversion (3.4.0)                                  Downloaded    7.4KB/  7.4KB
+✔︎ Bottle double-conversion (3.4.0)                                           Downloaded   74.0KB/ 74.0KB
+✔︎ Bottle Manifest freetype (2.14.1_2)                                        Downloaded    9.2KB/  9.2KB
+✔︎ Bottle freetype (2.14.1_2)                                                 Downloaded  991.0KB/991.0KB
+✔︎ Bottle Manifest libx11 (1.8.13)                                            Downloaded   14.4KB/ 14.4KB
+✔︎ Bottle Manifest libxext (1.3.7)                                            Downloaded   11.5KB/ 11.5KB
+✔︎ Bottle libxext (1.3.7)                                                     Downloaded  109.6KB/109.6KB
+✔︎ Bottle Manifest harfbuzz (12.3.2)                                          Downloaded   29.9KB/ 29.9KB
+✔︎ Bottle qtsvg (6.10.2)                                                      Downloaded  293.9KB/293.9KB
+✔︎ Bottle Manifest libharu (2.4.5_1)                                          Downloaded    8.3KB/  8.3KB
+✔︎ Bottle Manifest utf8cpp (4.0.9)                                            Downloaded    2.0KB/  2.0KB
+✔︎ Bottle utf8cpp (4.0.9)                                                     Downloaded   25.9KB/ 25.9KB
+✔︎ Bottle Manifest hwloc (2.13.0)                                             Downloaded   10.3KB/ 10.3KB
+✔︎ Bottle Manifest pango (1.57.0_2)                                           Downloaded   33.2KB/ 33.2KB
+✔︎ Bottle pango (1.57.0_2)                                                    Downloaded  887.0KB/887.0KB
+✔︎ Bottle Manifest glew (2.3.1)                                               Downloaded   19.4KB/ 19.4KB
+✔︎ Bottle glew (2.3.1)                                                        Downloaded  646.2KB/646.2KB
+✔︎ Bottle Manifest m4 (1.4.21)                                                Downloaded    9.5KB/  9.5KB
+✔︎ Bottle m4 (1.4.21)                                                         Downloaded  282.7KB/282.7KB
+✔︎ Bottle Manifest unixodbc (2.3.14)                                          Downloaded   10.2KB/ 10.2KB
+✔︎ Bottle unixodbc (2.3.14)                                                   Downloaded  593.8KB/593.8KB
+✔︎ Bottle Manifest freetds (1.5.13)                                           Downloaded   14.0KB/ 14.0KB
+✔︎ Bottle Manifest krb5 (1.22.2)                                              Downloaded   16.3KB/ 16.3KB
+✔︎ Bottle krb5 (1.22.2)                                                       Downloaded    1.3MB/  1.3MB
+✔︎ Bottle Manifest libpq (18.2)                                               Downloaded   16.5KB/ 16.5KB
+✔︎ Bottle Manifest libsodium (1.0.21)                                         Downloaded    7.3KB/  7.3KB
+✔︎ Bottle libsodium (1.0.21)                                                  Downloaded  365.9KB/365.9KB
+✔︎ Bottle Manifest net-snmp (5.9.5.2)                                         Downloaded   16.3KB/ 16.3KB
+✔︎ Bottle Manifest openldap (2.6.12)                                          Downloaded   27.2KB/ 27.2KB
+✔︎ Bottle glib (2.86.4)                                                       Downloaded    9.3MB/  9.3MB
+✔︎ Bottle libharu (2.4.5_1)                                                   Downloaded    1.2MB/  1.2MB
+✔︎ Bottle Manifest capstone (5.0.7)                                           Downloaded    8.8KB/  8.8KB
+✔︎ Bottle pipx (1.8.0)                                                        Downloaded  279.4KB/279.4KB
+✔︎ Bottle python-tk@3.13 (3.13.12)                                            Downloaded   34.7KB/ 34.7KB
+✔︎ Bottle Manifest libssh (0.12.0_1)                                          Downloaded    9.5KB/  9.5KB
+✔︎ Bottle Manifest ncurses (6.6)                                              Downloaded   11.9KB/ 11.9KB
+✔︎ Bottle jpeg-xl (0.11.2)                                                    Downloaded   13.8MB/ 13.8MB
+✔︎ Bottle hwloc (2.13.0)                                                      Downloaded    4.4MB/  4.4MB
+✔︎ Bottle freetds (1.5.13)                                                    Downloaded    3.2MB/  3.2MB
+✔︎ Bottle Manifest assimp (6.0.4_1)                                           Downloaded    8.5KB/  8.5KB
+✔︎ Bottle openldap (2.6.12)                                                   Downloaded    3.1MB/  3.1MB
+✔︎ Bottle libx11 (1.8.13)                                                     Downloaded    2.3MB/  2.3MB
+✔︎ Bottle libssh (0.12.0_1)                                                   Downloaded  611.8KB/611.8KB
+✔︎ Bottle harfbuzz (12.3.2)                                                   Downloaded    3.1MB/  3.1MB
+✔︎ Bottle qtquicktimeline (6.10.2)                                            Downloaded  102.8KB/102.8KB
+✔︎ Bottle qt5compat (6.10.2)                                                  Downloaded  661.7KB/661.7KB
+✔︎ Bottle tesseract (5.5.2)                                                   Downloaded   13.2MB/ 13.2MB
+✔︎ Bottle qtshadertools (6.10.2)                                              Downloaded    1.8MB/  1.8MB
+✔︎ Bottle qtconnectivity (6.10.2)                                             Downloaded  427.1KB/427.1KB
+✔︎ Bottle qtcharts (6.10.2)                                                   Downloaded  951.3KB/951.3KB
+✔︎ Bottle qtwebsockets (6.10.2)                                               Downloaded  127.2KB/127.2KB
+✔︎ Bottle qtdatavis3d (6.10.2)                                                Downloaded  760.2KB/760.2KB
+✔︎ Bottle qthttpserver (6.10.2)                                               Downloaded  109.1KB/109.1KB
+✔︎ Bottle qtgraphs (6.10.2)                                                   Downloaded    1.1MB/  1.1MB
+✔︎ Bottle qtgrpc (6.10.2)                                                     Downloaded    1.1MB/  1.1MB
+✔︎ Bottle qtimageformats (6.10.2)                                             Downloaded  102.5KB/102.5KB
+✔︎ Bottle capstone (5.0.7)                                                    Downloaded    3.3MB/  3.3MB
+✔︎ Bottle qtserialport (6.10.2)                                               Downloaded   60.5KB/ 60.5KB
+✔︎ Bottle pyenv (2.6.23)                                                      Downloaded    1.4MB/  1.4MB
+✔︎ Bottle qtlanguageserver (6.10.2)                                           Downloaded  656.0KB/656.0KB
+✔︎ Bottle assimp (6.0.4_1)                                                    Downloaded    3.2MB/  3.2MB
+✔︎ Bottle qtnetworkauth (6.10.2)                                              Downloaded  132.3KB/132.3KB
+✔︎ Bottle qtpositioning (6.10.2)                                              Downloaded  498.5KB/498.5KB
+✔︎ Bottle qtlottie (6.10.2)                                                   Downloaded  273.8KB/273.8KB
+✔︎ Bottle qtlocation (6.10.2)                                                 Downloaded  799.1KB/799.1KB
+✔︎ Bottle ncurses (6.6)                                                       Downloaded    2.5MB/  2.5MB
+✔︎ Bottle qtmultimedia (6.10.2)                                               Downloaded    1.9MB/  1.9MB
+✔︎ Bottle qtserialbus (6.10.2)                                                Downloaded  305.9KB/305.9KB
+✔︎ Bottle qtscxml (6.10.2)                                                    Downloaded  645.4KB/645.4KB
+✔︎ Bottle qtsensors (6.10.2)                                                  Downloaded  227.2KB/227.2KB
+✔︎ Bottle Manifest qttranslations (6.10.2)                                    Downloaded    7.2KB/  7.2KB
+✔︎ Bottle qtremoteobjects (6.10.2)                                            Downloaded  615.5KB/615.5KB
+✔︎ Bottle qtwebchannel (6.10.2)                                               Downloaded  143.7KB/143.7KB
+✔︎ Bottle python@3.14 (3.14.3_1)                                              Downloaded   19.1MB/ 19.1MB
+✔︎ Bottle qtquickeffectmaker (6.10.2)                                         Downloaded    4.2MB/  4.2MB
+✔︎ Bottle qtspeech (6.10.2)                                                   Downloaded  135.2KB/135.2KB
+✔︎ Bottle qtwebview (6.10.2)                                                  Downloaded  113.3KB/113.3KB
+✔︎ Bottle net-snmp (5.9.5.2)                                                  Downloaded    3.9MB/  3.9MB
+✔︎ Bottle rbenv-gemset (0.5.100)                                              Downloaded    6.6KB/  6.6KB
+✔︎ Bottle Manifest blake3 (1.8.3)                                             Downloaded    7.4KB/  7.4KB
+✔︎ Bottle blake3 (1.8.3)                                                      Downloaded   23.8KB/ 23.8KB
+✔︎ Bottle Manifest fmt (12.1.0)                                               Downloaded    7.3KB/  7.3KB
+✔︎ Bottle qtquick3dphysics (6.10.2)                                           Downloaded    4.8MB/  4.8MB
+✔︎ Bottle ruby-build (20260222)                                               Downloaded   77.4KB/ 77.4KB
+✔︎ Bottle python@3.12 (3.12.12_2)                                             Downloaded   18.0MB/ 18.0MB
+✔︎ Bottle qt3d (6.10.2)                                                       Downloaded    3.7MB/  3.7MB
+✔︎ Bottle qtquick3d (6.10.2)                                                  Downloaded    8.5MB/  8.5MB
+✔︎ Bottle qt (6.10.2)                                                         Downloaded   21.2KB/ 21.2KB
+✔︎ Bottle fmt (12.1.0)                                                        Downloaded  282.9KB/282.9KB
+✔︎ Bottle qttranslations (6.10.2)                                             Downloaded    4.2MB/  4.2MB
+✔︎ Bottle qtvirtualkeyboard (6.10.2)                                          Downloaded    3.0MB/  3.0MB
+✔︎ Bottle ccache (4.12.3)                                                     Downloaded  673.5KB/673.5KB
+✔︎ Bottle libpq (18.2)                                                        Downloaded    7.9MB/  7.9MB
+✔︎ Bottle qttools (6.10.2)                                                    Downloaded    7.0MB/  7.0MB
+✔︎ Bottle vtk (9.5.2_3)                                                       Downloaded   45.9MB/ 45.9MB
+✔︎ Bottle gcc (15.2.0_1)                                                      Downloaded  152.3MB/152.3MB
+✔︎ Bottle qtbase (6.10.2)                                                     Downloaded   17.6MB/ 17.6MB
+✔︎ Bottle php (8.5.3)                                                         Downloaded   28.4MB/ 28.4MB
+✔︎ Bottle opencv (4.13.0_3)                                                   Downloaded   43.0MB/ 43.0MB
+✔︎ Bottle icu4c@78 (78.2)                                                     Downloaded   31.8MB/ 31.8MB
+✔︎ Bottle qtwebengine (6.10.2)                                                Downloaded  130.9MB/130.9MB
+✔︎ Bottle python@3.13 (3.13.12_1)                                             Downloaded   18.4MB/ 18.4MB
+✔︎ Bottle qtdeclarative (6.10.2)                                              Downloaded   26.7MB/ 26.7MB
+✔︎ Bottle boost (1.90.0_1)                                                    Downloaded   61.3MB/ 61.3MB
+✔︎ Bottle qemu (10.2.1)                                                       Downloaded  108.7MB/108.7MB
+✔︎ Bottle julia (1.12.5)                                                      Downloaded  170.1MB/170.1MB
+✔︎ Bottle proj (9.7.1)                                                        Downloaded  799.9MB/799.9MB
+==> Upgrading zstd
+  1.5.7 -> 1.5.7_1
+==> Pouring zstd--1.5.7_1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/zstd/1.5.7_1: 32 files, 2.3MB
+==> Running `brew cleanup zstd`...
+Removing: /opt/homebrew/Cellar/zstd/1.5.7... (32 files, 2.3MB)
+==> Upgrading gcc
+  15.2.0 -> 15.2.0_1
+==> Pouring gcc--15.2.0_1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/gcc/15.2.0_1: 1,602 files, 460.7MB
+==> Running `brew cleanup gcc`...
+Removing: /opt/homebrew/Cellar/gcc/15.2.0... (1,602 files, 462.7MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/gcc_bottle_manifest--15.2.0... (23.4KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/gcc--15.2.0... (154.1MB)
+==> Upgrading openblas64
+  0.3.30 -> 0.3.31
+==> Pouring openblas64--0.3.31.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/openblas64/0.3.31: 29 files, 56.5MB
+==> Running `brew cleanup openblas64`...
+Removing: /opt/homebrew/Cellar/openblas64/0.3.30... (29 files, 55.4MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/openblas64_bottle_manifest--0.3.30... (14.9KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/openblas64--0.3.30... (17.4MB)
+==> Upgrading libarchive
+  3.8.2 -> 3.8.5_1
+==> Pouring libarchive--3.8.5_1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libarchive/3.8.5_1: 65 files, 4MB
+==> Running `brew cleanup libarchive`...
+Removing: /opt/homebrew/Cellar/libarchive/3.8.2... (65 files, 4MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/libarchive_bottle_manifest--3.8.2... (12KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/libarchive--3.8.2... (1.6MB)
+==> Upgrading curl
+  8.17.0 -> 8.18.0_2
+==> Installing dependencies for curl: libnghttp3, libngtcp2 and libssh2
+==> Installing curl dependency: libnghttp3
+==> Pouring libnghttp3--1.15.0.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libnghttp3/1.15.0: 20 files, 603.6KB
+==> Installing curl dependency: libngtcp2
+==> Pouring libngtcp2--1.20.0.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libngtcp2/1.20.0: 21 files, 1.3MB
+==> Installing curl dependency: libssh2
+==> Pouring libssh2--1.11.1_1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libssh2/1.11.1_1: 201 files, 1.3MB
+==> Installing curl
+==> Pouring curl--8.18.0_2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/curl/8.18.0_2: 551 files, 4.7MB
+==> Running `brew cleanup curl`...
+Removing: /opt/homebrew/Cellar/curl/8.17.0... (551 files, 4.7MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/curl_bottle_manifest--8.17.0-1... (20.8KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/curl--8.17.0... (1.6MB)
+==> Upgrading openblas
+  0.3.30 -> 0.3.31_1
+==> Installing openblas dependency: libomp
+==> Pouring libomp--21.1.8.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libomp/21.1.8: 9 files, 1.8MB
+==> Pouring openblas--0.3.31_1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/openblas/0.3.31_1: 29 files, 55.5MB
+==> Running `brew cleanup openblas`...
+Removing: /opt/homebrew/Cellar/openblas/0.3.30... (29 files, 52.8MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/openblas_bottle_manifest--0.3.30-1... (19.3KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/openblas--0.3.30... (16.3MB)
+==> Upgrading gnupg
+  2.4.8 -> 2.4.9
+==> Installing dependencies for gnupg: gettext, libtasn1, p11-kit, unbound, gnutls, libgpg-error, libgcrypt and pinentry
+==> Installing gnupg dependency: gettext
+==> Pouring gettext--1.0.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/gettext/1.0: 2,499 files, 35.3MB
+==> Installing gnupg dependency: libtasn1
+==> Pouring libtasn1--4.21.0.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libtasn1/4.21.0: 64 files, 723.8KB
+==> Installing gnupg dependency: p11-kit
+==> Pouring p11-kit--0.26.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/p11-kit/0.26.2: 33 files, 4.9MB
+==> Installing gnupg dependency: unbound
+==> Pouring unbound--1.24.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/unbound/1.24.2: 59 files, 6.5MB
+==> Installing gnupg dependency: gnutls
+==> Pouring gnutls--3.8.12.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/gnutls/3.8.12: 1,303 files, 12MB
+==> Installing gnupg dependency: libgpg-error
+==> Pouring libgpg-error--1.59.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libgpg-error/1.59: 50 files, 1.9MB
+==> Installing gnupg dependency: libgcrypt
+==> Pouring libgcrypt--1.12.1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libgcrypt/1.12.1: 24 files, 4.1MB
+==> Installing gnupg dependency: pinentry
+==> Pouring pinentry--1.3.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/pinentry/1.3.2: 13 files, 472.9KB
+==> Installing gnupg
+==> Pouring gnupg--2.4.9.arm64_tahoe.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/gnupg/2.4.9: 144 files, 15.6MB
+==> Running `brew cleanup gnupg`...
+Removing: /opt/homebrew/Cellar/gnupg/2.4.8... (144 files, 15.6MB)
+==> Upgrading hdf5
+  1.14.6 -> 2.0.0_1
+==> Installing hdf5 dependency: libaec
+==> Pouring libaec--1.1.6.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libaec/1.1.6: 23 files, 255.9KB
+==> Pouring hdf5--2.0.0_1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/hdf5/2.0.0_1: 269 files, 24.9MB
+==> Running `brew cleanup hdf5`...
+Removing: /opt/homebrew/Cellar/hdf5/1.14.6... (275 files, 21.8MB)
+==> Upgrading suite-sparse
+  7.12.1 -> 7.12.2
+==> Pouring suite-sparse--7.12.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/suite-sparse/7.12.2: 258 files, 51.4MB
+==> Running `brew cleanup suite-sparse`...
+Removing: /opt/homebrew/Cellar/suite-sparse/7.12.1... (258 files, 71.6MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/suite-sparse_bottle_manifest--7.12.1... (20.8KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/suite-sparse--7.12.1... (31.3MB)
+==> Upgrading julia
+  1.12.1 -> 1.12.5
+==> Installing dependencies for julia: libgit2, pcre2 and utf8proc
+==> Installing julia dependency: libgit2
+==> Pouring libgit2--1.9.2_1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libgit2/1.9.2_1: 109 files, 5.2MB
+==> Installing julia dependency: pcre2
+==> Pouring pcre2--10.47_1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/pcre2/10.47_1: 244 files, 7.3MB
+==> Installing julia dependency: utf8proc
+==> Pouring utf8proc--2.11.3.arm64_tahoe.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/utf8proc/2.11.3: 15 files, 473.8KB
+==> Installing julia
+==> Pouring julia--1.12.5.arm64_tahoe.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/julia/1.12.5: 2,703 files, 644.8MB
+==> Running `brew cleanup julia`...
+Removing: /opt/homebrew/Cellar/julia/1.12.1... (2,682 files, 646.0MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/julia_bottle_manifest--1.12.1... (27KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/julia--1.12.1... (171.6MB)
+==> Upgrading libtiff
+  4.7.1 -> 4.7.1_1
+==> Installing libtiff dependency: jpeg-turbo
+==> Pouring jpeg-turbo--3.1.3.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/jpeg-turbo/3.1.3: 47 files, 3.7MB
+==> Pouring libtiff--4.7.1_1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libtiff/4.7.1_1: 488 files, 9.0MB
+==> Running `brew cleanup libtiff`...
+Removing: /opt/homebrew/Cellar/libtiff/4.7.1... (488 files, 9.0MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/libtiff_bottle_manifest--4.7.1... (12.5KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/libtiff--4.7.1... (1.9MB)
+==> Upgrading little-cms2
+  2.17 -> 2.18
+==> Pouring little-cms2--2.18.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/little-cms2/2.18: 23 files, 1.5MB
+==> Running `brew cleanup little-cms2`...
+Removing: /opt/homebrew/Cellar/little-cms2/2.17... (23 files, 1.5MB)
+==> Upgrading openjph
+  0.25.2 -> 0.26.3
+==> Pouring openjph--0.26.3.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/openjph/0.26.3: 25 files, 634.7KB
+==> Running `brew cleanup openjph`...
+Removing: /opt/homebrew/Cellar/openjph/0.25.2... (25 files, 637.4KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/openjph_bottle_manifest--0.25.2... (12.3KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/openjph--0.25.2... (157.9KB)
+==> Upgrading openexr
+  3.4.3 -> 3.4.5
+==> Pouring openexr--3.4.5.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/openexr/3.4.5: 212 files, 4.6MB
+==> Running `brew cleanup openexr`...
+Removing: /opt/homebrew/Cellar/openexr/3.4.3... (212 files, 5.1MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/openexr_bottle_manifest--3.4.3... (15.5KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/openexr--3.4.3... (1.2MB)
+==> Upgrading jpeg-xl
+  0.11.1_3 -> 0.11.2
+==> Installing jpeg-xl dependency: libpng
+==> Pouring libpng--1.6.55.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libpng/1.6.55: 28 files, 1.4MB
+==> Pouring jpeg-xl--0.11.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/jpeg-xl/0.11.2: 64 files, 35.8MB
+==> Running `brew cleanup jpeg-xl`...
+Removing: /opt/homebrew/Cellar/jpeg-xl/0.11.1_3... (64 files, 36.1MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/jpeg-xl_bottle_manifest--0.11.1_3... (33.7KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/jpeg-xl--0.11.1_3... (13.9MB)
+==> Upgrading leptonica
+  1.86.0 -> 1.87.0
+==> Pouring leptonica--1.87.0.arm64_tahoe.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/leptonica/1.87.0: 55 files, 7.2MB
+==> Running `brew cleanup leptonica`...
+Removing: /opt/homebrew/Cellar/leptonica/1.86.0... (55 files, 7.3MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/leptonica_bottle_manifest--1.86.0... (17.3KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/leptonica--1.86.0... (2.7MB)
+==> Upgrading ffmpeg
+  8.0_2 -> 8.0.1_4
+==> Installing dependencies for ffmpeg: dav1d, libvpx, opus and svt-av1
+==> Installing ffmpeg dependency: dav1d
+==> Pouring dav1d--1.5.3.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/dav1d/1.5.3: 16 files, 940KB
+==> Installing ffmpeg dependency: libvpx
+==> Pouring libvpx--1.16.0.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libvpx/1.16.0: 22 files, 4.4MB
+==> Installing ffmpeg dependency: opus
+==> Pouring opus--1.6.1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/opus/1.6.1: 16 files, 1.1MB
+==> Installing ffmpeg dependency: svt-av1
+==> Pouring svt-av1--4.0.1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/svt-av1/4.0.1: 23 files, 3MB
+==> Installing ffmpeg
+==> Pouring ffmpeg--8.0.1_4.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/ffmpeg/8.0.1_4: 284 files, 53.3MB
+==> Running `brew cleanup ffmpeg`...
+Removing: /opt/homebrew/Cellar/ffmpeg/8.0_2... (285 files, 55.4MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/ffmpeg_bottle_manifest--8.0_2... (102.2KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/ffmpeg--8.0_2... (21.6MB)
+==> Upgrading libavif
+  1.3.0 -> 1.3.0_1
+==> Pouring libavif--1.3.0_1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libavif/1.3.0_1: 22 files, 1MB
+==> Running `brew cleanup libavif`...
+Removing: /opt/homebrew/Cellar/libavif/1.3.0... (22 files, 1MB)
+==> Upgrading libzip
+  1.11.4 -> 1.11.4_1
+==> Pouring libzip--1.11.4_1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libzip/1.11.4_1: 161 files, 955.2KB
+==> Running `brew cleanup libzip`...
+Removing: /opt/homebrew/Cellar/libzip/1.11.4... (161 files, 957KB)
+==> Upgrading netcdf
+  4.9.3_1 -> 4.9.3_2
+==> Pouring netcdf--4.9.3_2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/netcdf/4.9.3_2: 33 files, 4.1MB
+==> Running `brew cleanup netcdf`...
+Removing: /opt/homebrew/Cellar/netcdf/4.9.3_1... (33 files, 4.1MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/netcdf_bottle_manifest--4.9.3_1... (24.7KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/netcdf--4.9.3_1... (1.3MB)
+==> Upgrading numpy
+  2.3.4 -> 2.4.2
+==> Pouring numpy--2.4.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/numpy/2.4.2: 1,829 files, 37.6MB
+==> Running `brew cleanup numpy`...
+Removing: /opt/homebrew/Cellar/numpy/2.3.4... (2,701 files, 55.6MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/numpy_bottle_manifest--2.3.4... (16.7KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/numpy--2.3.4... (13.9MB)
+==> Upgrading ceres-solver
+  2.2.0_3 -> 2.2.0_6
+==> Installing dependencies for ceres-solver: gflags and glog
+==> Installing ceres-solver dependency: gflags
+==> Pouring gflags--2.3.0.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/gflags/2.3.0: 27 files, 747.0KB
+==> Installing ceres-solver dependency: glog
+==> Pouring glog--0.7.1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/glog/0.7.1: 25 files, 441.8KB
+==> Installing ceres-solver
+==> Pouring ceres-solver--2.2.0_6.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/ceres-solver/2.2.0_6: 167 files, 14.4MB
+==> Running `brew cleanup ceres-solver`...
+Removing: /opt/homebrew/Cellar/ceres-solver/2.2.0_3... (167 files, 14.3MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/ceres-solver_bottle_manifest--2.2.0_3... (22.7KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/ceres-solver--2.2.0_3... (3.5MB)
+==> Upgrading openvino
+  2025.3.0_4 -> 2025.4.1_3
+==> Installing dependencies for openvino: abseil, protobuf and onnx
+==> Installing openvino dependency: abseil
+==> Pouring abseil--20260107.1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/abseil/20260107.1: 806 files, 12.8MB
+==> Installing openvino dependency: protobuf
+==> Pouring protobuf--33.4_1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/protobuf/33.4_1: 369 files, 17.2MB
+==> Installing openvino dependency: onnx
+==> Pouring onnx--1.20.1_2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/onnx/1.20.1_2: 109 files, 6.4MB
+==> Installing openvino
+==> Pouring openvino--2025.4.1_3.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/openvino/2025.4.1_3: 913 files, 125.3MB
+==> Running `brew cleanup openvino`...
+Removing: /opt/homebrew/Cellar/openvino/2025.3.0_4... (908 files, 122.9MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/openvino_bottle_manifest--2025.3.0_4... (26.0KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/openvino--2025.3.0_4... (26.5MB)
+==> Upgrading python@3.14
+  3.14.0_1 -> 3.14.3_1
+==> Pouring python@3.14--3.14.3_1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/python@3.14/3.14.3_1: 3,764 files, 75.3MB
+==> Running `brew cleanup python@3.14`...
+Removing: /opt/homebrew/Cellar/python@3.14/3.14.0_1... (3,759 files, 73.0MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/python@3.14_bottle_manifest--3.14.0_1... (29.5KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/python@3.14--3.14.0_1... (18.7MB)
+==> Upgrading tesseract
+  5.5.1_1 -> 5.5.2
+==> Installing dependencies for tesseract: glib, xorgproto, libdatrie and libthai
+==> Installing tesseract dependency: glib
+==> Pouring glib--2.86.4.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/glib/2.86.4: 504 files, 39.7MB
+==> Installing tesseract dependency: xorgproto
+==> Pouring xorgproto--2025.1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/xorgproto/2025.1: 268 files, 4.1MB
+==> Installing tesseract dependency: libdatrie
+==> Pouring libdatrie--0.2.14.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libdatrie/0.2.14: 20 files, 313.0KB
+==> Installing tesseract dependency: libthai
+==> Pouring libthai--0.1.30.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libthai/0.1.30: 30 files, 974.9KB
+==> Installing tesseract
+==> Pouring tesseract--5.5.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/tesseract/5.5.2: 75 files, 34.9MB
+==> Running `brew cleanup tesseract`...
+Removing: /opt/homebrew/Cellar/tesseract/5.5.1_1... (75 files, 34.9MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/tesseract_bottle_manifest--5.5.1_1... (42.5KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/tesseract--5.5.1_1... (13.2MB)
+==> Upgrading boost
+  1.89.0_1 -> 1.90.0_1
+==> Installing boost dependency: icu4c@78
+==> Pouring icu4c@78--78.2.arm64_tahoe.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/icu4c@78/78.2: 279 files, 87.7MB
+==> Pouring boost--1.90.0_1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/boost/1.90.0_1: 16,255 files, 356.5MB
+==> Running `brew cleanup boost`...
+Removing: /opt/homebrew/Cellar/boost/1.89.0_1... (16,214 files, 359.8MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/boost_bottle_manifest--1.89.0_1... (28.8KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/boost--1.89.0_1... (61.6MB)
+==> Upgrading cgns
+  4.5.0 -> 4.5.1_1
+==> Pouring cgns--4.5.1_1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/cgns/4.5.1_1: 30 files, 2.5MB
+==> Running `brew cleanup cgns`...
+Removing: /opt/homebrew/Cellar/cgns/4.5.0... (30 files, 2.5MB)
+==> Upgrading proj
+  9.7.0 -> 9.7.1
+==> Pouring proj--9.7.1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/proj/9.7.1: 529 files, 833.0MB
+==> Running `brew cleanup proj`...
+Removing: /opt/homebrew/Cellar/proj/9.7.0... (526 files, 832.2MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/proj_bottle_manifest--9.7.0... (18.3KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/proj--9.7.0... (799.2MB)
+==> Upgrading qtbase
+  6.9.3_1 -> 6.10.2
+==> Installing dependencies for qtbase: double-conversion, freetype, libx11, libxext and harfbuzz
+==> Installing qtbase dependency: double-conversion
+==> Pouring double-conversion--3.4.0.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/double-conversion/3.4.0: 29 files, 275.1KB
+==> Installing qtbase dependency: freetype
+==> Pouring freetype--2.14.1_2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/freetype/2.14.1_2: 68 files, 2.7MB
+==> Installing qtbase dependency: libx11
+==> Pouring libx11--1.8.13.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libx11/1.8.13: 1,043 files, 7.4MB
+==> Installing qtbase dependency: libxext
+==> Pouring libxext--1.3.7.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libxext/1.3.7: 88 files, 472.6KB
+==> Installing qtbase dependency: harfbuzz
+==> Pouring harfbuzz--12.3.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/harfbuzz/12.3.2: 77 files, 11.6MB
+==> Installing qtbase
+==> Pouring qtbase--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtbase/6.10.2: 4,106 files, 63.3MB
+==> Running `brew cleanup qtbase`...
+Removing: /opt/homebrew/Cellar/qtbase/6.9.3_1... (3,991 files, 61.8MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtbase_bottle_manifest--6.9.3_1... (62KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtbase--6.9.3_1... (17.3MB)
+==> Upgrading qtsvg
+  6.9.3 -> 6.10.2
+==> Pouring qtsvg--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtsvg/6.10.2: 108 files, 1.2MB
+==> Running `brew cleanup qtsvg`...
+Removing: /opt/homebrew/Cellar/qtsvg/6.9.3... (115 files, 1.2MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtsvg_bottle_manifest--6.9.3... (56.2KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtsvg--6.9.3... (282.8KB)
+==> Upgrading qtdeclarative
+  6.9.3 -> 6.10.2
+==> Pouring qtdeclarative--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtdeclarative/6.10.2: 5,071 files, 136.5MB
+==> Running `brew cleanup qtdeclarative`...
+Removing: /opt/homebrew/Cellar/qtdeclarative/6.9.3... (4,904 files, 133.1MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtdeclarative_bottle_manifest--6.9.3... (67.4KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtdeclarative--6.9.3... (25.8MB)
+==> Upgrading vtk
+  9.5.2_1 -> 9.5.2_3
+==> Installing dependencies for vtk: libharu and utf8cpp
+==> Installing vtk dependency: libharu
+==> Pouring libharu--2.4.5_1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libharu/2.4.5_1: 144 files, 2.8MB
+==> Installing vtk dependency: utf8cpp
+==> Pouring utf8cpp--4.0.9.all.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/utf8cpp/4.0.9: 15 files, 149.8KB
+==> Installing vtk
+==> Pouring vtk--9.5.2_3.arm64_tahoe.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/vtk/9.5.2_3: 4,467 files, 243.4MB
+==> Running `brew cleanup vtk`...
+Removing: /opt/homebrew/Cellar/vtk/9.5.2_1... (4,467 files, 244.6MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/vtk_bottle_manifest--9.5.2_1... (82.4KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/vtk--9.5.2_1... (46.3MB)
+==> Upgrading opencv
+  4.12.0_15 -> 4.13.0_3
+==> Installing dependencies for opencv: hwloc, pango and glew
+==> Installing opencv dependency: hwloc
+==> Pouring hwloc--2.13.0.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/hwloc/2.13.0: 981 files, 11.3MB
+==> Installing opencv dependency: pango
+==> Pouring pango--1.57.0_2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/pango/1.57.0_2: 69 files, 3.8MB
+==> Installing opencv dependency: glew
+==> Pouring glew--2.3.1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/glew/2.3.1: 39 files, 3.3MB
+==> Installing opencv
+==> Pouring opencv--4.13.0_3.arm64_tahoe.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/opencv/4.13.0_3: 979 files, 150.9MB
+==> Running `brew cleanup opencv`...
+Removing: /opt/homebrew/Cellar/opencv/4.12.0_15... (968 files, 145.4MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/opencv_bottle_manifest--4.12.0_15... (149.9KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/opencv--4.12.0_15... (41.2MB)
+==> Upgrading php
+  8.4.8 -> 8.5.3
+==> Installing dependencies for php: m4, unixodbc, freetds, krb5, libpq, libsodium, net-snmp and openldap
+==> Installing php dependency: m4
+==> Pouring m4--1.4.21.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/m4/1.4.21: 14 files, 817.0KB
+==> Installing php dependency: unixodbc
+==> Pouring unixodbc--2.3.14.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/unixodbc/2.3.14: 48 files, 2.4MB
+==> Installing php dependency: freetds
+==> Pouring freetds--1.5.13.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/freetds/1.5.13: 1,420 files, 17.1MB
+==> Installing php dependency: krb5
+==> Pouring krb5--1.22.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/krb5/1.22.2: 163 files, 5.9MB
+==> Installing php dependency: libpq
+==> Pouring libpq--18.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libpq/18.2: 2,424 files, 35.4MB
+==> Installing php dependency: libsodium
+==> Pouring libsodium--1.0.21.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libsodium/1.0.21: 84 files, 1MB
+==> Installing php dependency: net-snmp
+==> Pouring net-snmp--5.9.5.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/net-snmp/5.9.5.2: 556 files, 15.8MB
+==> Installing php dependency: openldap
+==> Pouring openldap--2.6.12.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/openldap/2.6.12: 342 files, 9.1MB
+==> Installing php
+==> Pouring php--8.5.3.arm64_tahoe.bottle.tar.gz
+==> /opt/homebrew/Cellar/php/8.5.3/bin/pear config-set php_ini /opt/homebrew/etc/php/8.5/php.ini system
+==> /opt/homebrew/Cellar/php/8.5.3/bin/pear config-set php_dir /opt/homebrew/share/pear system
+==> /opt/homebrew/Cellar/php/8.5.3/bin/pear config-set doc_dir /opt/homebrew/share/pear/doc system
+==> /opt/homebrew/Cellar/php/8.5.3/bin/pear config-set ext_dir /opt/homebrew/lib/php/pecl/20250925 syste
+==> /opt/homebrew/Cellar/php/8.5.3/bin/pear config-set bin_dir /opt/homebrew/opt/php/bin system
+==> /opt/homebrew/Cellar/php/8.5.3/bin/pear config-set data_dir /opt/homebrew/share/pear/data system
+==> /opt/homebrew/Cellar/php/8.5.3/bin/pear config-set cfg_dir /opt/homebrew/share/pear/cfg system
+==> /opt/homebrew/Cellar/php/8.5.3/bin/pear config-set www_dir /opt/homebrew/share/pear/htdocs system
+==> /opt/homebrew/Cellar/php/8.5.3/bin/pear config-set man_dir /opt/homebrew/share/man system
+==> /opt/homebrew/Cellar/php/8.5.3/bin/pear config-set test_dir /opt/homebrew/share/pear/test system
+==> /opt/homebrew/Cellar/php/8.5.3/bin/pear config-set php_bin /opt/homebrew/opt/php/bin/php system
+==> /opt/homebrew/Cellar/php/8.5.3/bin/pear update-channels
+==> Caveats
+To enable PHP in Apache add the following to httpd.conf and restart Apache:
+    LoadModule php_module /opt/homebrew/opt/php/lib/httpd/modules/libphp.so
+
+    <FilesMatch \.php$>
+        SetHandler application/x-httpd-php
+    </FilesMatch>
+
+Finally, check DirectoryIndex includes index.php
+    DirectoryIndex index.php index.html
+
+The php.ini and php-fpm.ini file can be found in:
+    /opt/homebrew/etc/php/8.5/
+
+To start php now and restart at login:
+  brew services start php
+Or, if you don't want/need a background service you can just run:
+  /opt/homebrew/opt/php/sbin/php-fpm --nodaemonize
+==> Summary
+🍺  /opt/homebrew/Cellar/php/8.5.3: 533 files, 128.5MB
+==> Running `brew cleanup php`...
+Removing: /opt/homebrew/Cellar/php/8.4.8... (529 files, 114MB)
+==> Upgrading pipx
+  1.7.1_1 -> 1.8.0
+==> Pouring pipx--1.8.0.all.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/pipx/1.8.0: 157 files, 1.1MB
+==> Running `brew cleanup pipx`...
+Removing: /opt/homebrew/Cellar/pipx/1.7.1_1... (155 files, 1MB)
+==> Upgrading pyenv
+  2.5.3 -> 2.6.23
+==> Pouring pyenv--2.6.23.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/pyenv/2.6.23: 1,462 files, 4.7MB
+==> Running `brew cleanup pyenv`...
+Removing: /opt/homebrew/Cellar/pyenv/2.5.3... (1,299 files, 4.4MB)
+==> Upgrading python@3.13
+  3.13.5 -> 3.13.12_1
+==> Pouring python@3.13--3.13.12_1.arm64_tahoe.bottle.tar.gz
+==> Caveats
+Python is installed as
+  /opt/homebrew/bin/python3.13
+
+Unversioned and major-versioned symlinks `python`, `python3`, `python-config`, `python3-config`, `pip`, `pip3`, etc. pointing to
+`python3.13`, `python3.13-config`, `pip3.13` etc., respectively, are installed into
+  /opt/homebrew/opt/python@3.13/libexec/bin
+
+If you do not need a specific version of Python, and always want Homebrew's `python3` in your PATH:
+  brew install python3
+
+`idle3.13` requires tkinter, which is available separately:
+  brew install python-tk@3.13
+
+See: https://docs.brew.sh/Homebrew-and-Python
+==> Summary
+🍺  /opt/homebrew/Cellar/python@3.13/3.13.12_1: 3,625 files, 72MB
+==> Running `brew cleanup python@3.13`...
+Removing: /opt/homebrew/Cellar/python@3.13/3.13.5... (3,627 files, 70.6MB)
+==> Upgrading python-tk@3.13
+  3.13.5 -> 3.13.12
+==> Pouring python-tk@3.13--3.13.12.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/python-tk@3.13/3.13.12: 6 files, 164.0KB
+==> Running `brew cleanup python-tk@3.13`...
+Removing: /opt/homebrew/Cellar/python-tk@3.13/3.13.5... (6 files, 164.7KB)
+==> Upgrading python@3.12
+  3.12.9 -> 3.12.12_2
+==> Pouring python@3.12--3.12.12_2.arm64_tahoe.bottle.1.tar.gz
+Warning: These files were overwritten during the `brew link` step:
+/opt/homebrew/lib/python3.12/site-packages/pip/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/__main__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/__pip-runner__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/build_env.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/cache.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/cli/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/cli/autocompletion.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/cli/base_command.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/cli/cmdoptions.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/cli/command_context.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/cli/index_command.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/cli/main.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/cli/main_parser.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/cli/parser.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/cli/progress_bars.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/cli/req_command.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/cli/spinners.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/cli/status_codes.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/commands/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/commands/cache.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/commands/check.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/commands/completion.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/commands/configuration.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/commands/debug.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/commands/download.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/commands/freeze.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/commands/hash.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/commands/help.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/commands/index.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/commands/inspect.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/commands/install.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/commands/list.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/commands/search.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/commands/show.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/commands/uninstall.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/commands/wheel.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/configuration.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/distributions/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/distributions/base.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/distributions/installed.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/distributions/sdist.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/distributions/wheel.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/exceptions.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/index/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/index/collector.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/index/package_finder.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/index/sources.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/locations/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/locations/_distutils.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/locations/_sysconfig.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/locations/base.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/main.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/metadata/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/metadata/_json.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/metadata/base.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/metadata/importlib/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/metadata/importlib/_compat.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/metadata/importlib/_dists.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/metadata/importlib/_envs.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/metadata/pkg_resources.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/models/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/models/candidate.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/models/direct_url.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/models/format_control.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/models/index.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/models/installation_report.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/models/link.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/models/scheme.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/models/search_scope.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/models/selection_prefs.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/models/target_python.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/models/wheel.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/network/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/network/auth.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/network/cache.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/network/download.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/network/lazy_wheel.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/network/session.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/network/utils.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/network/xmlrpc.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/operations/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/operations/build/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/operations/build/build_tracker.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/operations/build/metadata.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/operations/build/metadata_editable.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/operations/build/wheel.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/operations/build/wheel_editable.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/operations/check.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/operations/freeze.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/operations/install/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/operations/install/wheel.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/operations/prepare.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/pyproject.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/req/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/req/constructors.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/req/req_file.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/req/req_install.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/req/req_set.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/req/req_uninstall.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/resolution/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/resolution/base.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/resolution/legacy/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/resolution/legacy/resolver.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/base.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/candidates.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/factory.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/provider.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/reporter.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/requirements.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/resolver.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/self_outdated_check.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/_jaraco_text.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/_log.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/appdirs.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/compat.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/compatibility_tags.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/datetime.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/deprecation.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/direct_url_helpers.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/egg_link.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/entrypoints.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/filesystem.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/filetypes.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/glibc.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/hashes.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/logging.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/misc.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/packaging.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/retry.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/subprocess.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/temp_dir.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/unpacking.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/urls.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/virtualenv.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/utils/wheel.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/vcs/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/vcs/bazaar.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/vcs/git.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/vcs/mercurial.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/vcs/subversion.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/vcs/versioncontrol.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_internal/wheel_builder.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/cachecontrol/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/cachecontrol/_cmd.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/cachecontrol/adapter.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/cachecontrol/cache.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/cachecontrol/caches/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/cachecontrol/controller.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/cachecontrol/filewrapper.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/cachecontrol/heuristics.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/cachecontrol/py.typed
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/cachecontrol/serialize.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/cachecontrol/wrapper.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/certifi/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/certifi/__main__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/certifi/cacert.pem
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/certifi/core.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/certifi/py.typed
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/distlib/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/distlib/compat.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/distlib/resources.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/distlib/scripts.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/distlib/t32.exe
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/distlib/t64-arm.exe
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/distlib/t64.exe
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/distlib/util.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/distlib/w32.exe
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/distlib/w64-arm.exe
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/distlib/w64.exe
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/distro/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/distro/__main__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/distro/distro.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/distro/py.typed
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/idna/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/idna/codec.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/idna/compat.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/idna/core.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/idna/idnadata.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/idna/intranges.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/idna/package_data.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/idna/py.typed
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/idna/uts46data.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/msgpack/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/msgpack/exceptions.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/msgpack/ext.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/msgpack/fallback.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/packaging/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/packaging/_elffile.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/packaging/_manylinux.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/packaging/_musllinux.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/packaging/_parser.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/packaging/_structures.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/packaging/_tokenizer.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/packaging/licenses/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/packaging/licenses/_spdx.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/packaging/markers.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/packaging/metadata.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/packaging/py.typed
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/packaging/requirements.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/packaging/specifiers.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/packaging/tags.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/packaging/utils.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/packaging/version.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pkg_resources/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/platformdirs/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/platformdirs/__main__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/platformdirs/android.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/platformdirs/api.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/platformdirs/macos.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/platformdirs/py.typed
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/platformdirs/unix.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/platformdirs/version.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/platformdirs/windows.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pygments/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pygments/__main__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pygments/console.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pygments/filter.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pygments/filters/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pygments/formatter.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/_mapping.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pygments/lexer.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pygments/lexers/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pygments/lexers/_mapping.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pygments/lexers/python.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pygments/modeline.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pygments/plugin.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pygments/regexopt.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pygments/scanner.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pygments/sphinxext.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pygments/style.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pygments/styles/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pygments/styles/_mapping.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pygments/token.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pygments/unistring.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pygments/util.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/_impl.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/_in_process/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/py.typed
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/requests/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/requests/__version__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/requests/_internal_utils.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/requests/adapters.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/requests/api.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/requests/auth.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/requests/certs.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/requests/compat.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/requests/cookies.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/requests/exceptions.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/requests/help.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/requests/hooks.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/requests/models.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/requests/packages.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/requests/sessions.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/requests/status_codes.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/requests/structures.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/requests/utils.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/resolvelib/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/resolvelib/providers.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/resolvelib/py.typed
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/resolvelib/reporters.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/resolvelib/structs.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/__main__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/_cell_widths.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/_emoji_codes.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/_emoji_replace.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/_export_format.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/_extension.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/_fileno.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/_inspect.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/_log_render.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/_loop.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/_null_file.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/_palettes.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/_pick.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/_ratio.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/_spinners.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/_stack.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/_timer.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/_win32_console.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/_windows.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/_windows_renderer.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/_wrap.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/abc.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/align.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/ansi.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/bar.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/box.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/cells.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/color.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/color_triplet.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/columns.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/console.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/constrain.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/containers.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/control.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/default_styles.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/diagnose.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/emoji.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/errors.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/file_proxy.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/filesize.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/highlighter.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/json.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/jupyter.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/layout.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/live.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/live_render.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/logging.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/markup.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/measure.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/padding.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/pager.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/palette.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/panel.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/pretty.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/progress.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/progress_bar.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/prompt.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/protocol.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/py.typed
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/region.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/repr.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/rule.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/scope.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/screen.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/segment.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/spinner.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/status.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/style.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/styled.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/syntax.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/table.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/terminal_theme.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/text.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/theme.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/themes.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/traceback.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/rich/tree.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/tomli/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/tomli/_parser.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/tomli/_re.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/tomli/_types.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/tomli/py.typed
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/truststore/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/truststore/_api.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/truststore/_macos.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/truststore/_openssl.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/truststore/_ssl_constants.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/truststore/_windows.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/truststore/py.typed
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/_collections.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/_version.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/connection.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/connectionpool.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/_appengine_environ.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/_securetransport/bindings.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/_securetransport/low_level.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/appengine.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/ntlmpool.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/pyopenssl.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/securetransport.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/socks.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/exceptions.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/fields.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/filepost.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/packages/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/packages/backports/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/packages/backports/weakref_finalize.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/packages/six.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/poolmanager.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/request.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/response.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/util/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/util/connection.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/util/proxy.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/util/queue.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/util/request.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/util/response.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/util/retry.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/util/ssl_.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/util/ssl_match_hostname.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/util/ssltransport.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/util/timeout.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/util/url.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/urllib3/util/wait.py
+/opt/homebrew/lib/python3.12/site-packages/pip/_vendor/vendor.txt
+/opt/homebrew/lib/python3.12/site-packages/pip/py.typed
+/opt/homebrew/lib/python3.12/site-packages/wheel/__init__.py
+/opt/homebrew/lib/python3.12/site-packages/wheel/__main__.py
+/opt/homebrew/lib/python3.12/site-packages/wheel/_bdist_wheel.py
+/opt/homebrew/lib/python3.12/site-packages/wheel/_setuptools_logging.py
+/opt/homebrew/lib/python3.12/site-packages/wheel/bdist_wheel.py
+/opt/homebrew/lib/python3.12/site-packages/wheel/macosx_libfile.py
+/opt/homebrew/lib/python3.12/site-packages/wheel/metadata.py
+/opt/homebrew/lib/python3.12/site-packages/wheel/wheelfile.py
+
+They have been backed up to: /Users/shaneyost/Library/Caches/Homebrew/Backup
+==> Summary
+🍺  /opt/homebrew/Cellar/python@3.12/3.12.12_2: 3,612 files, 70.0MB
+==> Running `brew cleanup python@3.12`...
+Removing: /opt/homebrew/Cellar/python@3.12/3.12.9... (3,273 files, 68.8MB)
+==> Upgrading qemu
+  10.0.2_2 -> 10.2.1
+==> Installing dependencies for qemu: capstone, libssh and ncurses
+==> Installing qemu dependency: capstone
+==> Pouring capstone--5.0.7.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/capstone/5.0.7: 31 files, 23.4MB
+==> Installing qemu dependency: libssh
+==> Pouring libssh--0.12.0_1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libssh/0.12.0_1: 25 files, 1.7MB
+==> Installing qemu dependency: ncurses
+==> Pouring ncurses--6.6.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/ncurses/6.6: 4,086 files, 10.5MB
+==> Installing qemu
+==> Pouring qemu--10.2.1.arm64_tahoe.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/qemu/10.2.1: 172 files, 714.2MB
+==> Running `brew cleanup qemu`...
+Removing: /opt/homebrew/Cellar/qemu/10.0.2_2... (169 files, 715.0MB)
+==> Upgrading qtshadertools
+  6.9.3 -> 6.10.2
+==> Pouring qtshadertools--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtshadertools/6.10.2: 56 files, 6.0MB
+==> Running `brew cleanup qtshadertools`...
+Removing: /opt/homebrew/Cellar/qtshadertools/6.9.3... (56 files, 6.0MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtshadertools_bottle_manifest--6.9.3... (57.6KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtshadertools--6.9.3... (1.8MB)
+==> Upgrading qt3d
+  6.9.3 -> 6.10.2
+==> Installing qt3d dependency: assimp
+==> Pouring assimp--6.0.4_1.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/assimp/6.0.4_1: 104 files, 10.9MB
+==> Pouring qt3d--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qt3d/6.10.2: 1,657 files, 18.7MB
+==> Running `brew cleanup qt3d`...
+Removing: /opt/homebrew/Cellar/qt3d/6.9.3... (1,657 files, 18.6MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qt3d_bottle_manifest--6.9.3-1... (61.9KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qt3d--6.9.3... (3.7MB)
+==> Upgrading qt5compat
+  6.9.3_1 -> 6.10.2
+==> Pouring qt5compat--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qt5compat/6.10.2: 136 files, 3.3MB
+==> Running `brew cleanup qt5compat`...
+Removing: /opt/homebrew/Cellar/qt5compat/6.9.3_1... (136 files, 3.3MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qt5compat_bottle_manifest--6.9.3_1... (58.8KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qt5compat--6.9.3_1... (659.1KB)
+==> Upgrading qtcharts
+  6.9.3 -> 6.10.2
+==> Pouring qtcharts--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtcharts/6.10.2: 410 files, 5MB
+==> Running `brew cleanup qtcharts`...
+Removing: /opt/homebrew/Cellar/qtcharts/6.9.3... (410 files, 4.9MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtcharts_bottle_manifest--6.9.3... (57.7KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtcharts--6.9.3... (939.7KB)
+==> Upgrading qtconnectivity
+  6.9.3 -> 6.10.2
+==> Pouring qtconnectivity--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtconnectivity/6.10.2: 202 files, 1.8MB
+==> Running `brew cleanup qtconnectivity`...
+Removing: /opt/homebrew/Cellar/qtconnectivity/6.9.3... (202 files, 1.8MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtconnectivity_bottle_manifest--6.9.3... (57.4KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtconnectivity--6.9.3... (426.4KB)
+==> Upgrading qtdatavis3d
+  6.9.3 -> 6.10.2
+==> Pouring qtdatavis3d--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtdatavis3d/6.10.2: 260 files, 3.7MB
+==> Running `brew cleanup qtdatavis3d`...
+Removing: /opt/homebrew/Cellar/qtdatavis3d/6.9.3... (260 files, 3.7MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtdatavis3d_bottle_manifest--6.9.3... (57.8KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtdatavis3d--6.9.3... (749.6KB)
+==> Upgrading qtquicktimeline
+  6.9.3 -> 6.10.2
+==> Pouring qtquicktimeline--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtquicktimeline/6.10.2: 102 files, 784.6KB
+==> Running `brew cleanup qtquicktimeline`...
+Removing: /opt/homebrew/Cellar/qtquicktimeline/6.9.3... (102 files, 782.7KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtquicktimeline_bottle_manifest--6.9.3... (57.8KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtquicktimeline--6.9.3... (102.0KB)
+==> Upgrading qtquick3d
+  6.9.3 -> 6.10.2
+==> Pouring qtquick3d--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtquick3d/6.10.2: 1,306 files, 28.4MB
+==> Running `brew cleanup qtquick3d`...
+Removing: /opt/homebrew/Cellar/qtquick3d/6.9.3... (1,315 files, 27.7MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtquick3d_bottle_manifest--6.9.3... (63.7KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtquick3d--6.9.3... (8.3MB)
+==> Upgrading qtgraphs
+  6.9.3 -> 6.10.2
+==> Pouring qtgraphs--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtgraphs/6.10.2: 306 files, 5.2MB
+==> Running `brew cleanup qtgraphs`...
+Removing: /opt/homebrew/Cellar/qtgraphs/6.9.3... (301 files, 4.6MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtgraphs_bottle_manifest--6.9.3... (61.2KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtgraphs--6.9.3... (970.1KB)
+==> Upgrading qtgrpc
+  6.9.3_2 -> 6.10.2
+==> Pouring qtgrpc--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtgrpc/6.10.2: 410 files, 7.1MB
+==> Running `brew cleanup qtgrpc`...
+Removing: /opt/homebrew/Cellar/qtgrpc/6.9.3_2... (409 files, 7MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtgrpc_bottle_manifest--6.9.3_2... (61.4KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtgrpc--6.9.3_2... (1.1MB)
+==> Upgrading qtwebsockets
+  6.9.3 -> 6.10.2
+==> Pouring qtwebsockets--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtwebsockets/6.10.2: 72 files, 643.5KB
+==> Running `brew cleanup qtwebsockets`...
+Removing: /opt/homebrew/Cellar/qtwebsockets/6.9.3... (72 files, 636.8KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtwebsockets_bottle_manifest--6.9.3... (57.8KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtwebsockets--6.9.3... (125.5KB)
+==> Upgrading qthttpserver
+  6.9.3 -> 6.10.2
+==> Pouring qthttpserver--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qthttpserver/6.10.2: 74 files, 495.9KB
+==> Running `brew cleanup qthttpserver`...
+Removing: /opt/homebrew/Cellar/qthttpserver/6.9.3... (73 files, 481.5KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qthttpserver_bottle_manifest--6.9.3... (58.5KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qthttpserver--6.9.3... (103.6KB)
+==> Upgrading qtimageformats
+  6.9.3 -> 6.10.2
+==> Pouring qtimageformats--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtimageformats/6.10.2: 63 files, 992.3KB
+==> Running `brew cleanup qtimageformats`...
+Removing: /opt/homebrew/Cellar/qtimageformats/6.9.3... (63 files, 994.2KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtimageformats_bottle_manifest--6.9.3... (60.7KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtimageformats--6.9.3... (101.4KB)
+==> Upgrading qtlanguageserver
+  6.9.3 -> 6.10.2
+==> Pouring qtlanguageserver--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtlanguageserver/6.10.2: 59 files, 4.4MB
+==> Running `brew cleanup qtlanguageserver`...
+Removing: /opt/homebrew/Cellar/qtlanguageserver/6.9.3... (59 files, 4.4MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtlanguageserver_bottle_manifest--6.9.3... (55.9KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtlanguageserver--6.9.3... (654.9KB)
+==> Upgrading qtserialport
+  6.9.3 -> 6.10.2
+==> Pouring qtserialport--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtserialport/6.10.2: 48 files, 355.4KB
+==> Running `brew cleanup qtserialport`...
+Removing: /opt/homebrew/Cellar/qtserialport/6.9.3... (48 files, 353.7KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtserialport_bottle_manifest--6.9.3... (56KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtserialport--6.9.3... (60.2KB)
+==> Upgrading qtpositioning
+  6.9.3 -> 6.10.2
+==> Pouring qtpositioning--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtpositioning/6.10.2: 177 files, 2.6MB
+==> Running `brew cleanup qtpositioning`...
+Removing: /opt/homebrew/Cellar/qtpositioning/6.9.3... (178 files, 2.6MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtpositioning_bottle_manifest--6.9.3... (58.8KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtpositioning--6.9.3... (496.1KB)
+==> Upgrading qtlocation
+  6.9.3 -> 6.10.2
+==> Pouring qtlocation--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtlocation/6.10.2: 233 files, 3.9MB
+==> Running `brew cleanup qtlocation`...
+Removing: /opt/homebrew/Cellar/qtlocation/6.9.3... (233 files, 3.9MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtlocation_bottle_manifest--6.9.3... (59.6KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtlocation--6.9.3... (786.7KB)
+==> Upgrading qtlottie
+  6.9.3 -> 6.10.2
+==> Pouring qtlottie--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtlottie/6.10.2: 164 files, 1.5MB
+==> Running `brew cleanup qtlottie`...
+Removing: /opt/homebrew/Cellar/qtlottie/6.9.3... (66 files, 713KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtlottie_bottle_manifest--6.9.3... (57.4KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtlottie--6.9.3... (160.5KB)
+==> Upgrading qtnetworkauth
+  6.9.3 -> 6.10.2
+==> Pouring qtnetworkauth--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtnetworkauth/6.10.2: 70 files, 632.2KB
+==> Running `brew cleanup qtnetworkauth`...
+Removing: /opt/homebrew/Cellar/qtnetworkauth/6.9.3... (70 files, 609.7KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtnetworkauth_bottle_manifest--6.9.3... (55.9KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtnetworkauth--6.9.3... (130.9KB)
+==> Upgrading qtmultimedia
+  6.9.3 -> 6.10.2
+==> Pouring qtmultimedia--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtmultimedia/6.10.2: 439 files, 7.2MB
+==> Running `brew cleanup qtmultimedia`...
+Removing: /opt/homebrew/Cellar/qtmultimedia/6.9.3... (431 files, 6.8MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtmultimedia_bottle_manifest--6.9.3... (93.5KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtmultimedia--6.9.3... (1.8MB)
+==> Upgrading qtquick3dphysics
+  6.9.3 -> 6.10.2
+==> Pouring qtquick3dphysics--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtquick3dphysics/6.10.2: 203 files, 15.0MB
+==> Running `brew cleanup qtquick3dphysics`...
+Removing: /opt/homebrew/Cellar/qtquick3dphysics/6.9.3... (203 files, 14.9MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtquick3dphysics_bottle_manifest--6.9.3... (61.9KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtquick3dphysics--6.9.3... (4.8MB)
+==> Upgrading qtquickeffectmaker
+  6.9.3 -> 6.10.2
+==> Pouring qtquickeffectmaker--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtquickeffectmaker/6.10.2: 116 files, 5.3MB
+==> Running `brew cleanup qtquickeffectmaker`...
+Removing: /opt/homebrew/Cellar/qtquickeffectmaker/6.9.3... (116 files, 5.3MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtquickeffectmaker_bottle_manifest--6.9.3... (61.4KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtquickeffectmaker--6.9.3... (4.2MB)
+==> Upgrading qtremoteobjects
+  6.9.3 -> 6.10.2
+==> Pouring qtremoteobjects--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtremoteobjects/6.10.2: 165 files, 2.4MB
+==> Running `brew cleanup qtremoteobjects`...
+Removing: /opt/homebrew/Cellar/qtremoteobjects/6.9.3... (174 files, 2.5MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtremoteobjects_bottle_manifest--6.9.3... (58.5KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtremoteobjects--6.9.3... (614.6KB)
+==> Upgrading qtscxml
+  6.9.3 -> 6.10.2
+==> Pouring qtscxml--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtscxml/6.10.2: 274 files, 3MB
+==> Running `brew cleanup qtscxml`...
+Removing: /opt/homebrew/Cellar/qtscxml/6.9.3... (274 files, 3MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtscxml_bottle_manifest--6.9.3... (58.7KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtscxml--6.9.3... (634.3KB)
+==> Upgrading qtserialbus
+  6.9.3 -> 6.10.2
+==> Pouring qtserialbus--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtserialbus/6.10.2: 139 files, 1.5MB
+==> Running `brew cleanup qtserialbus`...
+Removing: /opt/homebrew/Cellar/qtserialbus/6.9.3... (139 files, 1.5MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtserialbus_bottle_manifest--6.9.3... (57.6KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtserialbus--6.9.3... (297.8KB)
+==> Upgrading qtsensors
+  6.9.3 -> 6.10.2
+==> Pouring qtsensors--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtsensors/6.10.2: 208 files, 1.5MB
+==> Running `brew cleanup qtsensors`...
+Removing: /opt/homebrew/Cellar/qtsensors/6.9.3... (208 files, 1.5MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtsensors_bottle_manifest--6.9.3... (58.0KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtsensors--6.9.3... (225.2KB)
+==> Upgrading qtspeech
+  6.9.3 -> 6.10.2
+==> Pouring qtspeech--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtspeech/6.10.2: 77 files, 880.2KB
+==> Running `brew cleanup qtspeech`...
+Removing: /opt/homebrew/Cellar/qtspeech/6.9.3... (77 files, 878.6KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtspeech_bottle_manifest--6.9.3... (93.2KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtspeech--6.9.3... (134.9KB)
+==> Upgrading qttools
+  6.9.3 -> 6.10.2
+==> Pouring qttools--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qttools/6.10.2: 522 files, 20.3MB
+==> Running `brew cleanup qttools`...
+Removing: /opt/homebrew/Cellar/qttools/6.9.3... (514 files, 20.2MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qttools_bottle_manifest--6.9.3... (62.3KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qttools--6.9.3... (6.9MB)
+==> Upgrading qtvirtualkeyboard
+  6.9.3 -> 6.10.2
+==> Pouring qtvirtualkeyboard--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtvirtualkeyboard/6.10.2: 376 files, 8.3MB
+==> Running `brew cleanup qtvirtualkeyboard`...
+Removing: /opt/homebrew/Cellar/qtvirtualkeyboard/6.9.3... (377 files, 8.3MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtvirtualkeyboard_bottle_manifest--6.9.3... (95.6KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtvirtualkeyboard--6.9.3... (3.0MB)
+==> Upgrading qtwebchannel
+  6.9.3 -> 6.10.2
+==> Pouring qtwebchannel--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtwebchannel/6.10.2: 95 files, 759.7KB
+==> Running `brew cleanup qtwebchannel`...
+Removing: /opt/homebrew/Cellar/qtwebchannel/6.9.3... (95 files, 742.1KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtwebchannel_bottle_manifest--6.9.3... (58KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtwebchannel--6.9.3... (143.3KB)
+==> Upgrading qtwebengine
+  6.9.3_2 -> 6.10.2
+==> Pouring qtwebengine--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtwebengine/6.10.2: 546 files, 472.8MB
+==> Running `brew cleanup qtwebengine`...
+Removing: /opt/homebrew/Cellar/qtwebengine/6.9.3_2... (549 files, 458.5MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtwebengine_bottle_manifest--6.9.3_2... (59.6KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtwebengine--6.9.3_2... (129.9MB)
+==> Upgrading qtwebview
+  6.9.3 -> 6.10.2
+==> Pouring qtwebview--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qtwebview/6.10.2: 111 files, 950.9KB
+==> Running `brew cleanup qtwebview`...
+Removing: /opt/homebrew/Cellar/qtwebview/6.9.3... (110 files, 986.3KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtwebview_bottle_manifest--6.9.3... (58.2KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qtwebview--6.9.3... (123.7KB)
+==> Upgrading qt
+  6.9.3 -> 6.10.2
+==> Installing qt dependency: qttranslations
+==> Pouring qttranslations--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qttranslations/6.10.2: 309 files, 16MB
+==> Pouring qt--6.10.2.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/qt/6.10.2: 246 files, 182.6KB
+==> Running `brew cleanup qt`...
+Removing: /opt/homebrew/Cellar/qt/6.9.3... (257 files, 181.1KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qt_bottle_manifest--6.9.3... (133.6KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qt--6.9.3... (20.9KB)
+==> Upgrading ruby-build
+  20250215 -> 20260222
+==> Pouring ruby-build--20260222.all.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/ruby-build/20260222: 679 files, 389.5KB
+==> Running `brew cleanup ruby-build`...
+Removing: /opt/homebrew/Cellar/ruby-build/20250215... (641 files, 362.4KB)
+==> Upgrading rbenv-gemset
+  0.5.10 -> 0.5.100
+==> Pouring rbenv-gemset--0.5.100.all.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/rbenv-gemset/0.5.100: 15 files, 31.9KB
+==> Running `brew cleanup rbenv-gemset`...
+Removing: /opt/homebrew/Cellar/rbenv-gemset/0.5.10... (14 files, 18.5KB)
+==> Upgrading ccache
+  4.11.3_1 -> 4.12.3
+==> Installing dependencies for ccache: blake3 and fmt
+==> Installing ccache dependency: blake3
+==> Pouring blake3--1.8.3.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/blake3/1.8.3: 13 files, 96.7KB
+==> Installing ccache dependency: fmt
+==> Pouring fmt--12.1.0.arm64_tahoe.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/fmt/12.1.0: 29 files, 1MB
+==> Installing ccache
+==> Pouring ccache--4.12.3.arm64_tahoe.bottle.tar.gz
+==> Caveats
+To install symlinks for compilers that will automatically use
+ccache, prepend this directory to your PATH:
+  /opt/homebrew/opt/ccache/libexec
+
+If this is an upgrade and you have previously added the symlinks to
+your PATH, you may need to modify it to the path specified above so
+it points to the current version.
+
+NOTE: ccache can prevent some software from compiling.
+ALSO NOTE: The brew command, by design, will never use ccache.
+==> Summary
+🍺  /opt/homebrew/Cellar/ccache/4.12.3: 93 files, 2.2MB
+==> Running `brew cleanup ccache`...
+Removing: /opt/homebrew/Cellar/ccache/4.11.3_1... (85 files, 1.5MB)
+==> `brew cleanup` has not been run in the last 30 days, running now...
+Disable this behaviour by setting `HOMEBREW_NO_INSTALL_CLEANUP=1`.
+Hide these hints with `HOMEBREW_NO_ENV_HINTS=1` (see `man brew`).
+Removing: /opt/homebrew/Cellar/abseil/20250814.1... (778 files, 12.6MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/abseil_bottle_manifest--20250814.1... (59.4KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/abseil--20250814.1... (1.8MB)
+Removing: /opt/homebrew/Cellar/assimp/6.0.2... (104 files, 10.7MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/assimp_bottle_manifest--6.0.2... (10.7KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/assimp--6.0.2... (3.2MB)
+Removing: /opt/homebrew/Cellar/blake3/1.8.2... (13 files, 97KB)
+Removing: /opt/homebrew/Cellar/ca-certificates/2025-11-04... (4 files, 241.5KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/ca-certificates_bottle_manifest--2025-11-04-1... (2KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/ca-certificates--2025-11-04... (134.7KB)
+Removing: /opt/homebrew/Cellar/capstone/5.0.6... (31 files, 23.4MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/chezmoi_bottle_manifest--2.65.1... (9.5KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/chezmoi--2.65.1... (11.8MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/coreutils_bottle_manifest--9.7... (19.7KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/coreutils--9.7... (3.6MB)
+Removing: /opt/homebrew/Cellar/dav1d/1.5.2... (16 files, 944.3KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/dav1d_bottle_manifest--1.5.2... (7.6KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/dav1d--1.5.2... (364.6KB)
+Removing: /opt/homebrew/Cellar/double-conversion/3.3.1... (28 files, 274.4KB)
+Removing: /opt/homebrew/Cellar/fmt/11.2.0... (29 files, 1MB)
+Removing: /opt/homebrew/Cellar/freetds/1.4.26... (1,425 files, 16.9MB)
+Removing: /opt/homebrew/Cellar/freetds/1.5.2... (1,420 files, 17.1MB)
+Removing: /opt/homebrew/Cellar/freetype/2.14.1_1... (68 files, 2.7MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/freetype_bottle_manifest--2.14.1_1... (9.2KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/freetype--2.14.1_1... (991KB)
+Removing: /opt/homebrew/Cellar/gettext/0.26_1... (2,428 files, 29.6MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/gettext_bottle_manifest--0.26_1... (13.8KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/gettext--0.26_1... (9.6MB)
+Removing: /opt/homebrew/Cellar/gflags/2.2.2... (27 files, 805.7KB)
+Removing: /opt/homebrew/Cellar/glew/2.2.0_1... (39 files, 3.9MB)
+Removing: /opt/homebrew/Cellar/glib/2.86.1... (504 files, 39.6MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/glib_bottle_manifest--2.86.1... (20.3KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/glib--2.86.1... (9.2MB)
+Removing: /opt/homebrew/Cellar/glog/0.6.0... (23 files, 349.5KB)
+Removing: /opt/homebrew/Cellar/gnutls/3.8.10... (1,296 files, 12MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/gnutls_bottle_manifest--3.8.10... (25.4KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/gnutls--3.8.10... (3.2MB)
+Removing: /opt/homebrew/Cellar/harfbuzz/12.2.0_1... (77 files, 12.5MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/harfbuzz_bottle_manifest--12.2.0_1... (29.9KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/harfbuzz--12.2.0_1... (3.3MB)
+Removing: /opt/homebrew/Cellar/hwloc/2.12.2_1... (976 files, 11.3MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/hwloc_bottle_manifest--2.12.2_1... (10.6KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/hwloc--2.12.2_1... (4.4MB)
+Removing: /opt/homebrew/Cellar/icu4c@78/78.1... (279 files, 87.9MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/icu4c@78_bottle_manifest--78.1... (9.7KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/icu4c@78--78.1... (32.0MB)
+Removing: /opt/homebrew/Cellar/jpeg-turbo/3.1.2... (47 files, 3.7MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/jpeg-turbo_bottle_manifest--3.1.2... (10.7KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/jpeg-turbo--3.1.2... (1MB)
+Removing: /opt/homebrew/Cellar/krb5/1.21.3... (163 files, 5.9MB)
+Removing: /opt/homebrew/Cellar/libaec/1.1.4... (21 files, 250.5KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/libaec_bottle_manifest--1.1.4-1... (9.2KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/libaec--1.1.4... (56.6KB)
+Removing: /opt/homebrew/Cellar/libgcrypt/1.11.1... (24 files, 4.0MB)
+Removing: /opt/homebrew/Cellar/libgit2/1.9.1... (109 files, 5.1MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/libgit2_bottle_manifest--1.9.1... (14.1KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/libgit2--1.9.1... (2.0MB)
+Removing: /opt/homebrew/Cellar/libgpg-error/1.55... (50 files, 1.8MB)
+Removing: /opt/homebrew/Cellar/libharu/2.4.5... (144 files, 2.8MB)
+Removing: /opt/homebrew/Cellar/libnghttp3/1.12.0... (20 files, 603.4KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/libnghttp3_bottle_manifest--1.12.0... (7.2KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/libnghttp3--1.12.0... (188.6KB)
+Removing: /opt/homebrew/Cellar/libngtcp2/1.17.0... (21 files, 1.3MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/libngtcp2_bottle_manifest--1.17.0... (9.3KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/libngtcp2--1.17.0... (400.4KB)
+Removing: /opt/homebrew/Cellar/libomp/21.1.5... (9 files, 1.8MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/libomp_bottle_manifest--21.1.5... (11.9KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/libomp--21.1.5... (586.5KB)
+Removing: /opt/homebrew/Cellar/libpng/1.6.50... (28 files, 1.4MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/libpng_bottle_manifest--1.6.50... (10.9KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/libpng--1.6.50... (457.3KB)
+Removing: /opt/homebrew/Cellar/libpq/17.5... (2,394 files, 34.4MB)
+Removing: /opt/homebrew/Cellar/libsodium/1.0.20... (78 files, 910.1KB)
+Removing: /opt/homebrew/Cellar/libssh/0.11.3... (25 files, 1.5MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/libssh_bottle_manifest--0.11.3... (12.1KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/libssh--0.11.3... (539.2KB)
+Removing: /opt/homebrew/Cellar/libssh2/1.11.1... (201 files, 1.3MB)
+Removing: /opt/homebrew/Cellar/libtasn1/4.20.0... (63 files, 706.3KB)
+Removing: /opt/homebrew/Cellar/libvpx/1.15.2... (22 files, 4.4MB)
+Removing: /opt/homebrew/Cellar/libx11/1.8.12... (1,043 files, 7.4MB)
+Removing: /opt/homebrew/Cellar/libxext/1.3.6... (88 files, 469.4KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/luajit_bottle_manifest--2.1.1753364724... (10KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/luajit--2.1.1753364724... (900.4KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/luv_bottle_manifest--1.51.0-1... (10.5KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/luv--1.51.0-1... (247.0KB)
+Removing: /opt/homebrew/Cellar/m4/1.4.20... (14 files, 802.6KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/minicom_bottle_manifest--2.10... (9.2KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/minicom--2.10... (144.2KB)
+Removing: /opt/homebrew/Cellar/ncurses/6.5... (4,052 files, 10.3MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/neovim_bottle_manifest--0.11.4... (21.5KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/neovim--0.11.4... (7.8MB)
+Removing: /opt/homebrew/Cellar/net-snmp/5.9.4... (554 files, 15.7MB)
+Removing: /opt/homebrew/Cellar/onnx/1.17.0_10... (106 files, 5.7MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/onnx_bottle_manifest--1.17.0_10... (9.4KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/onnx--1.17.0_10... (1.2MB)
+Removing: /opt/homebrew/Cellar/openldap/2.6.10... (342 files, 9.1MB)
+Removing: /opt/homebrew/Cellar/opus/1.5.2... (16 files, 1MB)
+Removing: /opt/homebrew/Cellar/p11-kit/0.25.10... (33 files, 4.5MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/p11-kit_bottle_manifest--0.25.10... (9.9KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/p11-kit--0.25.10... (939.9KB)
+Removing: /opt/homebrew/Cellar/pango/1.57.0_1... (69 files, 3.7MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/pango_bottle_manifest--1.57.0_1... (31.5KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/pango--1.57.0_1... (886.8KB)
+Removing: /opt/homebrew/Cellar/pcre2/10.47... (244 files, 7.3MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/pcre2_bottle_manifest--10.47... (10.4KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/pcre2--10.47... (2.4MB)
+Removing: /opt/homebrew/Cellar/pinentry/1.3.1_1... (13 files, 467.2KB)
+Removing: /opt/homebrew/Cellar/protobuf/33.1... (364 files, 17.3MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/protobuf_bottle_manifest--33.1... (10.5KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/protobuf--33.1... (3.6MB)
+Removing: /opt/homebrew/Cellar/qttranslations/6.9.3... (309 files, 15.9MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qttranslations_bottle_manifest--6.9.3... (7.2KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/qttranslations--6.9.3... (4.2MB)
+Removing: /opt/homebrew/Cellar/svt-av1/3.1.2... (19 files, 3.5MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/svt-av1_bottle_manifest--3.1.2... (9.8KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/svt-av1--3.1.2... (1.4MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/tree-sitter_bottle_manifest--0.25.9... (9.4KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/tree-sitter--0.25.9... (193.6KB)
+Removing: /opt/homebrew/Cellar/unbound/1.24.1... (59 files, 6.6MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/unbound_bottle_manifest--1.24.1... (14KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/unbound--1.24.1... (3MB)
+Removing: /opt/homebrew/Cellar/unixodbc/2.3.12... (48 files, 2.4MB)
+Removing: /opt/homebrew/Cellar/utf8cpp/4.0.8... (15 files, 150.0KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/utf8cpp_bottle_manifest--4.0.8... (2.0KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/utf8cpp--4.0.8... (25.9KB)
+Removing: /opt/homebrew/Cellar/utf8proc/2.11.1... (11 files, 815.3KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/utf8proc_bottle_manifest--2.11.1... (7.4KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/utf8proc--2.11.1... (187.7KB)
+Removing: /opt/homebrew/Cellar/xorgproto/2024.1... (268 files, 4.1MB)
+==> Autoremoving 1 unneeded formula:
+rtmpdump
+Uninstalling /opt/homebrew/Cellar/rtmpdump/2.4-20151223_3... (21 files, 669.8KB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/portable-ruby-3.4.8.arm64_big_sur.bottle.tar.gz... (12.2MB)
+Removing: /Users/shaneyost/Library/Caches/Homebrew/bootsnap/13e6bb57852f8ac8a403d12c1c0a4cb6c88ce6354b8b9b9de78434dca9b00d24... (654 files, 5.6MB)
+Removing: /Users/shaneyost/Library/Logs/Homebrew/glib... (64B)
+Removing: /Users/shaneyost/Library/Logs/Homebrew/dbus... (223B)
+Removing: /Users/shaneyost/Library/Logs/Homebrew/gcc... (64B)
+Removing: /Users/shaneyost/Library/Logs/Homebrew/fontconfig... (154.3KB)
+Removing: /Users/shaneyost/Library/Logs/Homebrew/openssl@3... (64B)
+Removing: /Users/shaneyost/Library/Logs/Homebrew/ca-certificates... (64B)
+Removing: /Users/shaneyost/Library/Logs/Homebrew/unbound... (64B)
+Removing: /Users/shaneyost/Library/Logs/Homebrew/gnutls... (64B)
+Pruned 0 symbolic links and 9 directories from /opt/homebrew
+==> Caveats
+zsh completions have been installed to:
+  /opt/homebrew/share/zsh/site-functions
+==> openssl@3
+To add additional certificates, place .pem files in
+  /opt/homebrew/etc/openssl@3/certs
+
+and run
+  /opt/homebrew/opt/openssl@3/bin/c_rehash
+==> readline
+readline is keg-only, which means it was not symlinked into /opt/homebrew,
+because macOS provides BSD libedit.
+
+For compilers to find readline you may need to set:
+  export LDFLAGS="-L/opt/homebrew/opt/readline/lib"
+  export CPPFLAGS="-I/opt/homebrew/opt/readline/include"
+
+For pkgconf to find readline you may need to set:
+  export PKG_CONFIG_PATH="/opt/homebrew/opt/readline/lib/pkgconfig"
+==> sqlite
+sqlite is keg-only, which means it was not symlinked into /opt/homebrew,
+because macOS already provides this software and installing another version in
+parallel can cause all kinds of trouble.
+
+If you need to have sqlite first in your PATH, run:
+  echo 'export PATH="/opt/homebrew/opt/sqlite/bin:$PATH"' >> ~/.zshrc
+
+For compilers to find sqlite you may need to set:
+  export LDFLAGS="-L/opt/homebrew/opt/sqlite/lib"
+  export CPPFLAGS="-I/opt/homebrew/opt/sqlite/include"
+
+For pkgconf to find sqlite you may need to set:
+  export PKG_CONFIG_PATH="/opt/homebrew/opt/sqlite/lib/pkgconfig"
+==> zlib
+zlib is keg-only, which means it was not symlinked into /opt/homebrew,
+because macOS already provides this software and installing another version in
+parallel can cause all kinds of trouble.
+
+For compilers to find zlib you may need to set:
+  export LDFLAGS="-L/opt/homebrew/opt/zlib/lib"
+  export CPPFLAGS="-I/opt/homebrew/opt/zlib/include"
+
+For pkgconf to find zlib you may need to set:
+  export PKG_CONFIG_PATH="/opt/homebrew/opt/zlib/lib/pkgconfig"
+==> tcl-tk
+The sqlite3_analyzer binary is in the `sqlite-analyzer` formula.
+==> php
+To enable PHP in Apache add the following to httpd.conf and restart Apache:
+    LoadModule php_module /opt/homebrew/opt/php/lib/httpd/modules/libphp.so
+
+    <FilesMatch \.php$>
+        SetHandler application/x-httpd-php
+    </FilesMatch>
+
+Finally, check DirectoryIndex includes index.php
+    DirectoryIndex index.php index.html
+
+The php.ini and php-fpm.ini file can be found in:
+    /opt/homebrew/etc/php/8.5/
+
+To start php now and restart at login:
+  brew services start php
+Or, if you don't want/need a background service you can just run:
+  /opt/homebrew/opt/php/sbin/php-fpm --nodaemonize
+==> python@3.13
+Python is installed as
+  /opt/homebrew/bin/python3.13
+
+Unversioned and major-versioned symlinks `python`, `python3`, `python-config`, `python3-config`, `pip`, `pip3`, etc. pointing to
+`python3.13`, `python3.13-config`, `pip3.13` etc., respectively, are installed into
+  /opt/homebrew/opt/python@3.13/libexec/bin
+
+If you do not need a specific version of Python, and always want Homebrew's `python3` in your PATH:
+  brew install python3
+
+`idle3.13` requires tkinter, which is available separately:
+  brew install python-tk@3.13
+
+See: https://docs.brew.sh/Homebrew-and-Python
+==> ccache
+To install symlinks for compilers that will automatically use
+ccache, prepend this directory to your PATH:
+  /opt/homebrew/opt/ccache/libexec
+
+If this is an upgrade and you have previously added the symlinks to
+your PATH, you may need to modify it to the path specified above so
+it points to the current version.
+
+NOTE: ccache can prevent some software from compiling.
+ALSO NOTE: The brew command, by design, will never use ccache.
+
+ ~/repos 
+   git clone git@github.com:realShaneYost/pyimgsrc-dl4cv.git
+Cloning into 'pyimgsrc-dl4cv'...
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 5 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (5/5), done.
+
+ ~/repos 
+   cd pyimgsrc-dl4cv
+
+ …/pyimgsrc-dl4cv   main 
+   python3 -m venv .venv
+
+ …/pyimgsrc-dl4cv   main 
+   source .venv/bin/activate
+
+ …/pyimgsrc-dl4cv   main   3.12.2 .venv 
+   pip install --upgrade pip setuptools wheel
+Requirement already satisfied: pip in ./.venv/lib/python3.12/site-packages (24.0)
+Collecting pip
+  Using cached pip-26.0.1-py3-none-any.whl.metadata (4.7 kB)
+Collecting setuptools
+  Using cached setuptools-82.0.0-py3-none-any.whl.metadata (6.6 kB)
+Collecting wheel
+  Downloading wheel-0.46.3-py3-none-any.whl.metadata (2.4 kB)
+Collecting packaging>=24.0 (from wheel)
+  Downloading packaging-26.0-py3-none-any.whl.metadata (3.3 kB)
+Using cached pip-26.0.1-py3-none-any.whl (1.8 MB)
+Using cached setuptools-82.0.0-py3-none-any.whl (1.0 MB)
+Downloading wheel-0.46.3-py3-none-any.whl (30 kB)
+Downloading packaging-26.0-py3-none-any.whl (74 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 74.4/74.4 kB 4.6 MB/s eta 0:00:00
+Installing collected packages: setuptools, pip, packaging, wheel
+  Attempting uninstall: pip
+    Found existing installation: pip 24.0
+    Uninstalling pip-24.0:
+      Successfully uninstalled pip-24.0
+Successfully installed packaging-26.0 pip-26.0.1 setuptools-82.0.0 wheel-0.46.3
+
+ …/pyimgsrc-dl4cv   main   3.12.2 .venv 
+   pip install \
+  "tensorflow==2.18.1" \
+  "tensorflow-metal==1.2.0" \
+  opencv-python-headless \
+  scikit-image \
+  scikit-learn \
+  numpy \
+  matplotlib \
+  pillow \
+  imutils \
+  tqdm \
+  h5py \
+  requests \
+  scipy \
+  pandas \
+  jupyter \
+  notebook
+Collecting tensorflow==2.18.1
+  Downloading tensorflow-2.18.1-cp312-cp312-macosx_12_0_arm64.whl.metadata (4.0 kB)
+Collecting tensorflow-metal==1.2.0
+  Downloading tensorflow_metal-1.2.0-cp312-cp312-macosx_12_0_arm64.whl.metadata (1.3 kB)
+Collecting opencv-python-headless
+  Downloading opencv_python_headless-4.13.0.92-cp37-abi3-macosx_13_0_arm64.whl.metadata (19 kB)
+Collecting scikit-image
+  Downloading scikit_image-0.26.0-cp312-cp312-macosx_11_0_arm64.whl.metadata (15 kB)
+Collecting scikit-learn
+  Downloading scikit_learn-1.8.0-cp312-cp312-macosx_12_0_arm64.whl.metadata (11 kB)
+Collecting numpy
+  Downloading numpy-2.4.2-cp312-cp312-macosx_14_0_arm64.whl.metadata (6.6 kB)
+Collecting matplotlib
+  Downloading matplotlib-3.10.8-cp312-cp312-macosx_11_0_arm64.whl.metadata (52 kB)
+Collecting pillow
+  Downloading pillow-12.1.1-cp312-cp312-macosx_11_0_arm64.whl.metadata (8.8 kB)
+Collecting imutils
+  Downloading imutils-0.5.4.tar.gz (17 kB)
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Preparing metadata (pyproject.toml) ... done
+Collecting tqdm
+  Downloading tqdm-4.67.3-py3-none-any.whl.metadata (57 kB)
+Collecting h5py
+  Downloading h5py-3.15.1-cp312-cp312-macosx_11_0_arm64.whl.metadata (3.0 kB)
+Collecting requests
+  Downloading requests-2.32.5-py3-none-any.whl.metadata (4.9 kB)
+Collecting scipy
+  Downloading scipy-1.17.1-cp312-cp312-macosx_14_0_arm64.whl.metadata (62 kB)
+Collecting pandas
+  Downloading pandas-3.0.1-cp312-cp312-macosx_11_0_arm64.whl.metadata (79 kB)
+Collecting jupyter
+  Downloading jupyter-1.1.1-py2.py3-none-any.whl.metadata (2.0 kB)
+Collecting notebook
+  Downloading notebook-7.5.4-py3-none-any.whl.metadata (10 kB)
+Collecting absl-py>=1.0.0 (from tensorflow==2.18.1)
+  Downloading absl_py-2.4.0-py3-none-any.whl.metadata (3.3 kB)
+Collecting astunparse>=1.6.0 (from tensorflow==2.18.1)
+  Downloading astunparse-1.6.3-py2.py3-none-any.whl.metadata (4.4 kB)
+Collecting flatbuffers>=24.3.25 (from tensorflow==2.18.1)
+  Downloading flatbuffers-25.12.19-py2.py3-none-any.whl.metadata (1.0 kB)
+Collecting gast!=0.5.0,!=0.5.1,!=0.5.2,>=0.2.1 (from tensorflow==2.18.1)
+  Downloading gast-0.7.0-py3-none-any.whl.metadata (1.5 kB)
+Collecting google-pasta>=0.1.1 (from tensorflow==2.18.1)
+  Downloading google_pasta-0.2.0-py3-none-any.whl.metadata (814 bytes)
+Collecting libclang>=13.0.0 (from tensorflow==2.18.1)
+  Downloading libclang-18.1.1-1-py2.py3-none-macosx_11_0_arm64.whl.metadata (5.2 kB)
+Collecting opt-einsum>=2.3.2 (from tensorflow==2.18.1)
+  Downloading opt_einsum-3.4.0-py3-none-any.whl.metadata (6.3 kB)
+Requirement already satisfied: packaging in ./.venv/lib/python3.12/site-packages (from tensorflow==2.18.1) (26.0)
+Collecting protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<6.0.0dev,>=3.20.3 (from tensorflow==2.18.1)
+  Downloading protobuf-5.29.6-cp38-abi3-macosx_10_9_universal2.whl.metadata (592 bytes)
+Requirement already satisfied: setuptools in ./.venv/lib/python3.12/site-packages (from tensorflow==2.18.1) (82.0.0)
+Collecting six>=1.12.0 (from tensorflow==2.18.1)
+  Using cached six-1.17.0-py2.py3-none-any.whl.metadata (1.7 kB)
+Collecting termcolor>=1.1.0 (from tensorflow==2.18.1)
+  Downloading termcolor-3.3.0-py3-none-any.whl.metadata (6.5 kB)
+Collecting typing-extensions>=3.6.6 (from tensorflow==2.18.1)
+  Downloading typing_extensions-4.15.0-py3-none-any.whl.metadata (3.3 kB)
+Collecting wrapt>=1.11.0 (from tensorflow==2.18.1)
+  Downloading wrapt-2.1.1-cp312-cp312-macosx_11_0_arm64.whl.metadata (7.4 kB)
+Collecting grpcio<2.0,>=1.24.3 (from tensorflow==2.18.1)
+  Downloading grpcio-1.78.1-cp312-cp312-macosx_11_0_universal2.whl.metadata (3.8 kB)
+Collecting tensorboard<2.19,>=2.18 (from tensorflow==2.18.1)
+  Downloading tensorboard-2.18.0-py3-none-any.whl.metadata (1.6 kB)
+Collecting keras>=3.5.0 (from tensorflow==2.18.1)
+  Downloading keras-3.13.2-py3-none-any.whl.metadata (6.3 kB)
+Collecting numpy
+  Downloading numpy-2.0.2-cp312-cp312-macosx_14_0_arm64.whl.metadata (60 kB)
+Collecting ml-dtypes<1.0.0,>=0.4.0 (from tensorflow==2.18.1)
+  Downloading ml_dtypes-0.5.4-cp312-cp312-macosx_10_13_universal2.whl.metadata (8.9 kB)
+Requirement already satisfied: wheel~=0.35 in ./.venv/lib/python3.12/site-packages (from tensorflow-metal==1.2.0) (0.46.3)
+Collecting charset_normalizer<4,>=2 (from requests)
+  Downloading charset_normalizer-3.4.4-cp312-cp312-macosx_10_13_universal2.whl.metadata (37 kB)
+Collecting idna<4,>=2.5 (from requests)
+  Downloading idna-3.11-py3-none-any.whl.metadata (8.4 kB)
+Collecting urllib3<3,>=1.21.1 (from requests)
+  Downloading urllib3-2.6.3-py3-none-any.whl.metadata (6.9 kB)
+Collecting certifi>=2017.4.17 (from requests)
+  Downloading certifi-2026.2.25-py3-none-any.whl.metadata (2.5 kB)
+Collecting markdown>=2.6.8 (from tensorboard<2.19,>=2.18->tensorflow==2.18.1)
+  Downloading markdown-3.10.2-py3-none-any.whl.metadata (5.1 kB)
+Collecting tensorboard-data-server<0.8.0,>=0.7.0 (from tensorboard<2.19,>=2.18->tensorflow==2.18.1)
+  Downloading tensorboard_data_server-0.7.2-py3-none-any.whl.metadata (1.1 kB)
+Collecting werkzeug>=1.0.1 (from tensorboard<2.19,>=2.18->tensorflow==2.18.1)
+  Downloading werkzeug-3.1.6-py3-none-any.whl.metadata (4.0 kB)
+Collecting networkx>=3.0 (from scikit-image)
+  Downloading networkx-3.6.1-py3-none-any.whl.metadata (6.8 kB)
+Collecting imageio!=2.35.0,>=2.33 (from scikit-image)
+  Downloading imageio-2.37.2-py3-none-any.whl.metadata (9.7 kB)
+Collecting tifffile>=2022.8.12 (from scikit-image)
+  Downloading tifffile-2026.2.24-py3-none-any.whl.metadata (31 kB)
+Collecting lazy-loader>=0.4 (from scikit-image)
+  Using cached lazy_loader-0.4-py3-none-any.whl.metadata (7.6 kB)
+Collecting joblib>=1.3.0 (from scikit-learn)
+  Downloading joblib-1.5.3-py3-none-any.whl.metadata (5.5 kB)
+Collecting threadpoolctl>=3.2.0 (from scikit-learn)
+  Using cached threadpoolctl-3.6.0-py3-none-any.whl.metadata (13 kB)
+Collecting contourpy>=1.0.1 (from matplotlib)
+  Downloading contourpy-1.3.3-cp312-cp312-macosx_11_0_arm64.whl.metadata (5.5 kB)
+Collecting cycler>=0.10 (from matplotlib)
+  Downloading cycler-0.12.1-py3-none-any.whl.metadata (3.8 kB)
+Collecting fonttools>=4.22.0 (from matplotlib)
+  Downloading fonttools-4.61.1-cp312-cp312-macosx_10_13_universal2.whl.metadata (114 kB)
+Collecting kiwisolver>=1.3.1 (from matplotlib)
+  Downloading kiwisolver-1.4.9-cp312-cp312-macosx_11_0_arm64.whl.metadata (6.3 kB)
+Collecting pyparsing>=3 (from matplotlib)
+  Downloading pyparsing-3.3.2-py3-none-any.whl.metadata (5.8 kB)
+Collecting python-dateutil>=2.7 (from matplotlib)
+  Using cached python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting jupyter-console (from jupyter)
+  Downloading jupyter_console-6.6.3-py3-none-any.whl.metadata (5.8 kB)
+Collecting nbconvert (from jupyter)
+  Downloading nbconvert-7.17.0-py3-none-any.whl.metadata (8.4 kB)
+Collecting ipykernel (from jupyter)
+  Downloading ipykernel-7.2.0-py3-none-any.whl.metadata (4.5 kB)
+Collecting ipywidgets (from jupyter)
+  Downloading ipywidgets-8.1.8-py3-none-any.whl.metadata (2.4 kB)
+Collecting jupyterlab (from jupyter)
+  Downloading jupyterlab-4.5.5-py3-none-any.whl.metadata (16 kB)
+Collecting jupyter-server<3,>=2.4.0 (from notebook)
+  Downloading jupyter_server-2.17.0-py3-none-any.whl.metadata (8.5 kB)
+Collecting jupyterlab-server<3,>=2.28.0 (from notebook)
+  Downloading jupyterlab_server-2.28.0-py3-none-any.whl.metadata (5.9 kB)
+Collecting notebook-shim<0.3,>=0.2 (from notebook)
+  Downloading notebook_shim-0.2.4-py3-none-any.whl.metadata (4.0 kB)
+Collecting tornado>=6.2.0 (from notebook)
+  Downloading tornado-6.5.4-cp39-abi3-macosx_10_9_universal2.whl.metadata (2.8 kB)
+Collecting anyio>=3.1.0 (from jupyter-server<3,>=2.4.0->notebook)
+  Downloading anyio-4.12.1-py3-none-any.whl.metadata (4.3 kB)
+Collecting argon2-cffi>=21.1 (from jupyter-server<3,>=2.4.0->notebook)
+  Downloading argon2_cffi-25.1.0-py3-none-any.whl.metadata (4.1 kB)
+Collecting jinja2>=3.0.3 (from jupyter-server<3,>=2.4.0->notebook)
+  Using cached jinja2-3.1.6-py3-none-any.whl.metadata (2.9 kB)
+Collecting jupyter-client>=7.4.4 (from jupyter-server<3,>=2.4.0->notebook)
+  Downloading jupyter_client-8.8.0-py3-none-any.whl.metadata (8.4 kB)
+Collecting jupyter-core!=5.0.*,>=4.12 (from jupyter-server<3,>=2.4.0->notebook)
+  Downloading jupyter_core-5.9.1-py3-none-any.whl.metadata (1.5 kB)
+Collecting jupyter-events>=0.11.0 (from jupyter-server<3,>=2.4.0->notebook)
+  Downloading jupyter_events-0.12.0-py3-none-any.whl.metadata (5.8 kB)
+Collecting jupyter-server-terminals>=0.4.4 (from jupyter-server<3,>=2.4.0->notebook)
+  Downloading jupyter_server_terminals-0.5.4-py3-none-any.whl.metadata (5.9 kB)
+Collecting nbformat>=5.3.0 (from jupyter-server<3,>=2.4.0->notebook)
+  Downloading nbformat-5.10.4-py3-none-any.whl.metadata (3.6 kB)
+Collecting prometheus-client>=0.9 (from jupyter-server<3,>=2.4.0->notebook)
+  Downloading prometheus_client-0.24.1-py3-none-any.whl.metadata (2.1 kB)
+Collecting pyzmq>=24 (from jupyter-server<3,>=2.4.0->notebook)
+  Downloading pyzmq-27.1.0-cp312-abi3-macosx_10_15_universal2.whl.metadata (6.0 kB)
+Collecting send2trash>=1.8.2 (from jupyter-server<3,>=2.4.0->notebook)
+  Downloading send2trash-2.1.0-py3-none-any.whl.metadata (4.1 kB)
+Collecting terminado>=0.8.3 (from jupyter-server<3,>=2.4.0->notebook)
+  Downloading terminado-0.18.1-py3-none-any.whl.metadata (5.8 kB)
+Collecting traitlets>=5.6.0 (from jupyter-server<3,>=2.4.0->notebook)
+  Downloading traitlets-5.14.3-py3-none-any.whl.metadata (10 kB)
+Collecting websocket-client>=1.7 (from jupyter-server<3,>=2.4.0->notebook)
+  Downloading websocket_client-1.9.0-py3-none-any.whl.metadata (8.3 kB)
+Collecting async-lru>=1.0.0 (from jupyterlab->jupyter)
+  Downloading async_lru-2.2.0-py3-none-any.whl.metadata (7.2 kB)
+Collecting httpx<1,>=0.25.0 (from jupyterlab->jupyter)
+  Downloading httpx-0.28.1-py3-none-any.whl.metadata (7.1 kB)
+Collecting jupyter-lsp>=2.0.0 (from jupyterlab->jupyter)
+  Downloading jupyter_lsp-2.3.0-py3-none-any.whl.metadata (1.8 kB)
+Collecting httpcore==1.* (from httpx<1,>=0.25.0->jupyterlab->jupyter)
+  Downloading httpcore-1.0.9-py3-none-any.whl.metadata (21 kB)
+Collecting h11>=0.16 (from httpcore==1.*->httpx<1,>=0.25.0->jupyterlab->jupyter)
+  Downloading h11-0.16.0-py3-none-any.whl.metadata (8.3 kB)
+Collecting babel>=2.10 (from jupyterlab-server<3,>=2.28.0->notebook)
+  Downloading babel-2.18.0-py3-none-any.whl.metadata (2.2 kB)
+Collecting json5>=0.9.0 (from jupyterlab-server<3,>=2.28.0->notebook)
+  Downloading json5-0.13.0-py3-none-any.whl.metadata (36 kB)
+Collecting jsonschema>=4.18.0 (from jupyterlab-server<3,>=2.28.0->notebook)
+  Downloading jsonschema-4.26.0-py3-none-any.whl.metadata (7.6 kB)
+Collecting argon2-cffi-bindings (from argon2-cffi>=21.1->jupyter-server<3,>=2.4.0->notebook)
+  Downloading argon2_cffi_bindings-25.1.0-cp39-abi3-macosx_11_0_arm64.whl.metadata (7.4 kB)
+Collecting appnope>=0.1.2 (from ipykernel->jupyter)
+  Downloading appnope-0.1.4-py2.py3-none-any.whl.metadata (908 bytes)
+Collecting comm>=0.1.1 (from ipykernel->jupyter)
+  Downloading comm-0.2.3-py3-none-any.whl.metadata (3.7 kB)
+Collecting debugpy>=1.6.5 (from ipykernel->jupyter)
+  Downloading debugpy-1.8.20-cp312-cp312-macosx_15_0_universal2.whl.metadata (1.4 kB)
+Collecting ipython>=7.23.1 (from ipykernel->jupyter)
+  Downloading ipython-9.10.0-py3-none-any.whl.metadata (4.6 kB)
+Collecting matplotlib-inline>=0.1 (from ipykernel->jupyter)
+  Downloading matplotlib_inline-0.2.1-py3-none-any.whl.metadata (2.3 kB)
+Collecting nest-asyncio>=1.4 (from ipykernel->jupyter)
+  Downloading nest_asyncio-1.6.0-py3-none-any.whl.metadata (2.8 kB)
+Collecting psutil>=5.7 (from ipykernel->jupyter)
+  Downloading psutil-7.2.2-cp36-abi3-macosx_11_0_arm64.whl.metadata (22 kB)
+Collecting decorator>=4.3.2 (from ipython>=7.23.1->ipykernel->jupyter)
+  Downloading decorator-5.2.1-py3-none-any.whl.metadata (3.9 kB)
+Collecting ipython-pygments-lexers>=1.0.0 (from ipython>=7.23.1->ipykernel->jupyter)
+  Downloading ipython_pygments_lexers-1.1.1-py3-none-any.whl.metadata (1.1 kB)
+Collecting jedi>=0.18.1 (from ipython>=7.23.1->ipykernel->jupyter)
+  Downloading jedi-0.19.2-py2.py3-none-any.whl.metadata (22 kB)
+Collecting pexpect>4.3 (from ipython>=7.23.1->ipykernel->jupyter)
+  Downloading pexpect-4.9.0-py2.py3-none-any.whl.metadata (2.5 kB)
+Collecting prompt_toolkit<3.1.0,>=3.0.41 (from ipython>=7.23.1->ipykernel->jupyter)
+  Downloading prompt_toolkit-3.0.52-py3-none-any.whl.metadata (6.4 kB)
+Collecting pygments>=2.11.0 (from ipython>=7.23.1->ipykernel->jupyter)
+  Downloading pygments-2.19.2-py3-none-any.whl.metadata (2.5 kB)
+Collecting stack_data>=0.6.0 (from ipython>=7.23.1->ipykernel->jupyter)
+  Downloading stack_data-0.6.3-py3-none-any.whl.metadata (18 kB)
+Collecting wcwidth (from prompt_toolkit<3.1.0,>=3.0.41->ipython>=7.23.1->ipykernel->jupyter)
+  Downloading wcwidth-0.6.0-py3-none-any.whl.metadata (30 kB)
+Collecting parso<0.9.0,>=0.8.4 (from jedi>=0.18.1->ipython>=7.23.1->ipykernel->jupyter)
+  Downloading parso-0.8.6-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting MarkupSafe>=2.0 (from jinja2>=3.0.3->jupyter-server<3,>=2.4.0->notebook)
+  Downloading markupsafe-3.0.3-cp312-cp312-macosx_11_0_arm64.whl.metadata (2.7 kB)
+Collecting attrs>=22.2.0 (from jsonschema>=4.18.0->jupyterlab-server<3,>=2.28.0->notebook)
+  Downloading attrs-25.4.0-py3-none-any.whl.metadata (10 kB)
+Collecting jsonschema-specifications>=2023.03.6 (from jsonschema>=4.18.0->jupyterlab-server<3,>=2.28.0->notebook)
+  Downloading jsonschema_specifications-2025.9.1-py3-none-any.whl.metadata (2.9 kB)
+Collecting referencing>=0.28.4 (from jsonschema>=4.18.0->jupyterlab-server<3,>=2.28.0->notebook)
+  Downloading referencing-0.37.0-py3-none-any.whl.metadata (2.8 kB)
+Collecting rpds-py>=0.25.0 (from jsonschema>=4.18.0->jupyterlab-server<3,>=2.28.0->notebook)
+  Downloading rpds_py-0.30.0-cp312-cp312-macosx_11_0_arm64.whl.metadata (4.1 kB)
+Collecting platformdirs>=2.5 (from jupyter-core!=5.0.*,>=4.12->jupyter-server<3,>=2.4.0->notebook)
+  Downloading platformdirs-4.9.2-py3-none-any.whl.metadata (4.7 kB)
+Collecting python-json-logger>=2.0.4 (from jupyter-events>=0.11.0->jupyter-server<3,>=2.4.0->notebook)
+  Downloading python_json_logger-4.0.0-py3-none-any.whl.metadata (4.0 kB)
+Collecting pyyaml>=5.3 (from jupyter-events>=0.11.0->jupyter-server<3,>=2.4.0->notebook)
+  Downloading pyyaml-6.0.3-cp312-cp312-macosx_11_0_arm64.whl.metadata (2.4 kB)
+Collecting rfc3339-validator (from jupyter-events>=0.11.0->jupyter-server<3,>=2.4.0->notebook)
+  Downloading rfc3339_validator-0.1.4-py2.py3-none-any.whl.metadata (1.5 kB)
+Collecting rfc3986-validator>=0.1.1 (from jupyter-events>=0.11.0->jupyter-server<3,>=2.4.0->notebook)
+  Downloading rfc3986_validator-0.1.1-py2.py3-none-any.whl.metadata (1.7 kB)
+Collecting fqdn (from jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.11.0->jupyter-server<3,>=2.4.0->notebook)
+  Downloading fqdn-1.5.1-py3-none-any.whl.metadata (1.4 kB)
+Collecting isoduration (from jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.11.0->jupyter-server<3,>=2.4.0->notebook)
+  Downloading isoduration-20.11.0-py3-none-any.whl.metadata (5.7 kB)
+Collecting jsonpointer>1.13 (from jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.11.0->jupyter-server<3,>=2.4.0->notebook)
+  Downloading jsonpointer-3.0.0-py2.py3-none-any.whl.metadata (2.3 kB)
+Collecting rfc3987-syntax>=1.1.0 (from jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.11.0->jupyter-server<3,>=2.4.0->notebook)
+  Downloading rfc3987_syntax-1.1.0-py3-none-any.whl.metadata (7.7 kB)
+Collecting uri-template (from jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.11.0->jupyter-server<3,>=2.4.0->notebook)
+  Downloading uri_template-1.3.0-py3-none-any.whl.metadata (8.8 kB)
+Collecting webcolors>=24.6.0 (from jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.11.0->jupyter-server<3,>=2.4.0->notebook)
+  Downloading webcolors-25.10.0-py3-none-any.whl.metadata (2.2 kB)
+Collecting rich (from keras>=3.5.0->tensorflow==2.18.1)
+  Downloading rich-14.3.3-py3-none-any.whl.metadata (18 kB)
+Collecting namex (from keras>=3.5.0->tensorflow==2.18.1)
+  Downloading namex-0.1.0-py3-none-any.whl.metadata (322 bytes)
+Collecting optree (from keras>=3.5.0->tensorflow==2.18.1)
+  Downloading optree-0.19.0-cp312-cp312-macosx_11_0_arm64.whl.metadata (34 kB)
+Collecting beautifulsoup4 (from nbconvert->jupyter)
+  Downloading beautifulsoup4-4.14.3-py3-none-any.whl.metadata (3.8 kB)
+Collecting bleach!=5.0.0 (from bleach[css]!=5.0.0->nbconvert->jupyter)
+  Downloading bleach-6.3.0-py3-none-any.whl.metadata (31 kB)
+Collecting defusedxml (from nbconvert->jupyter)
+  Downloading defusedxml-0.7.1-py2.py3-none-any.whl.metadata (32 kB)
+Collecting jupyterlab-pygments (from nbconvert->jupyter)
+  Downloading jupyterlab_pygments-0.3.0-py3-none-any.whl.metadata (4.4 kB)
+Collecting mistune<4,>=2.0.3 (from nbconvert->jupyter)
+  Downloading mistune-3.2.0-py3-none-any.whl.metadata (1.9 kB)
+Collecting nbclient>=0.5.0 (from nbconvert->jupyter)
+  Downloading nbclient-0.10.4-py3-none-any.whl.metadata (8.3 kB)
+Collecting pandocfilters>=1.4.1 (from nbconvert->jupyter)
+  Downloading pandocfilters-1.5.1-py2.py3-none-any.whl.metadata (9.0 kB)
+Collecting webencodings (from bleach!=5.0.0->bleach[css]!=5.0.0->nbconvert->jupyter)
+  Downloading webencodings-0.5.1-py2.py3-none-any.whl.metadata (2.1 kB)
+Collecting tinycss2<1.5,>=1.1.0 (from bleach[css]!=5.0.0->nbconvert->jupyter)
+  Downloading tinycss2-1.4.0-py3-none-any.whl.metadata (3.0 kB)
+Collecting fastjsonschema>=2.15 (from nbformat>=5.3.0->jupyter-server<3,>=2.4.0->notebook)
+  Downloading fastjsonschema-2.21.2-py3-none-any.whl.metadata (2.3 kB)
+Collecting ptyprocess>=0.5 (from pexpect>4.3->ipython>=7.23.1->ipykernel->jupyter)
+  Downloading ptyprocess-0.7.0-py2.py3-none-any.whl.metadata (1.3 kB)
+Collecting lark>=1.2.2 (from rfc3987-syntax>=1.1.0->jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.11.0->jupyter-server<3,>=2.4.0->notebook)
+  Downloading lark-1.3.1-py3-none-any.whl.metadata (1.8 kB)
+Collecting executing>=1.2.0 (from stack_data>=0.6.0->ipython>=7.23.1->ipykernel->jupyter)
+  Downloading executing-2.2.1-py2.py3-none-any.whl.metadata (8.9 kB)
+Collecting asttokens>=2.1.0 (from stack_data>=0.6.0->ipython>=7.23.1->ipykernel->jupyter)
+  Downloading asttokens-3.0.1-py3-none-any.whl.metadata (4.9 kB)
+Collecting pure-eval (from stack_data>=0.6.0->ipython>=7.23.1->ipykernel->jupyter)
+  Downloading pure_eval-0.2.3-py3-none-any.whl.metadata (6.3 kB)
+Collecting cffi>=1.0.1 (from argon2-cffi-bindings->argon2-cffi>=21.1->jupyter-server<3,>=2.4.0->notebook)
+  Downloading cffi-2.0.0-cp312-cp312-macosx_11_0_arm64.whl.metadata (2.6 kB)
+Collecting pycparser (from cffi>=1.0.1->argon2-cffi-bindings->argon2-cffi>=21.1->jupyter-server<3,>=2.4.0->notebook)
+  Downloading pycparser-3.0-py3-none-any.whl.metadata (8.2 kB)
+Collecting soupsieve>=1.6.1 (from beautifulsoup4->nbconvert->jupyter)
+  Downloading soupsieve-2.8.3-py3-none-any.whl.metadata (4.6 kB)
+Collecting widgetsnbextension~=4.0.14 (from ipywidgets->jupyter)
+  Downloading widgetsnbextension-4.0.15-py3-none-any.whl.metadata (1.6 kB)
+Collecting jupyterlab_widgets~=3.0.15 (from ipywidgets->jupyter)
+  Downloading jupyterlab_widgets-3.0.16-py3-none-any.whl.metadata (20 kB)
+Collecting arrow>=0.15.0 (from isoduration->jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.11.0->jupyter-server<3,>=2.4.0->notebook)
+  Downloading arrow-1.4.0-py3-none-any.whl.metadata (7.7 kB)
+Collecting tzdata (from arrow>=0.15.0->isoduration->jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.11.0->jupyter-server<3,>=2.4.0->notebook)
+  Downloading tzdata-2025.3-py2.py3-none-any.whl.metadata (1.4 kB)
+Collecting markdown-it-py>=2.2.0 (from rich->keras>=3.5.0->tensorflow==2.18.1)
+  Downloading markdown_it_py-4.0.0-py3-none-any.whl.metadata (7.3 kB)
+Collecting mdurl~=0.1 (from markdown-it-py>=2.2.0->rich->keras>=3.5.0->tensorflow==2.18.1)
+  Downloading mdurl-0.1.2-py3-none-any.whl.metadata (1.6 kB)
+Downloading tensorflow-2.18.1-cp312-cp312-macosx_12_0_arm64.whl (239.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 239.6/239.6 MB 19.4 MB/s  0:00:12
+Downloading tensorflow_metal-1.2.0-cp312-cp312-macosx_12_0_arm64.whl (1.4 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.4/1.4 MB 37.7 MB/s  0:00:00
+Downloading numpy-2.0.2-cp312-cp312-macosx_14_0_arm64.whl (5.0 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 5.0/5.0 MB 42.9 MB/s  0:00:00
+Downloading requests-2.32.5-py3-none-any.whl (64 kB)
+Downloading charset_normalizer-3.4.4-cp312-cp312-macosx_10_13_universal2.whl (208 kB)
+Downloading grpcio-1.78.1-cp312-cp312-macosx_11_0_universal2.whl (11.8 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 11.8/11.8 MB 45.2 MB/s  0:00:00
+Downloading idna-3.11-py3-none-any.whl (71 kB)
+Downloading ml_dtypes-0.5.4-cp312-cp312-macosx_10_13_universal2.whl (676 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 676.9/676.9 kB 27.4 MB/s  0:00:00
+Downloading protobuf-5.29.6-cp38-abi3-macosx_10_9_universal2.whl (418 kB)
+Downloading tensorboard-2.18.0-py3-none-any.whl (5.5 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 5.5/5.5 MB 42.7 MB/s  0:00:00
+Downloading tensorboard_data_server-0.7.2-py3-none-any.whl (2.4 kB)
+Downloading typing_extensions-4.15.0-py3-none-any.whl (44 kB)
+Downloading urllib3-2.6.3-py3-none-any.whl (131 kB)
+Downloading opencv_python_headless-4.13.0.92-cp37-abi3-macosx_13_0_arm64.whl (46.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 46.2/46.2 MB 47.6 MB/s  0:00:00
+Downloading scikit_image-0.26.0-cp312-cp312-macosx_11_0_arm64.whl (12.1 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 12.1/12.1 MB 48.3 MB/s  0:00:00
+Downloading scikit_learn-1.8.0-cp312-cp312-macosx_12_0_arm64.whl (8.1 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 8.1/8.1 MB 45.8 MB/s  0:00:00
+Downloading matplotlib-3.10.8-cp312-cp312-macosx_11_0_arm64.whl (8.1 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 8.1/8.1 MB 44.3 MB/s  0:00:00
+Downloading pillow-12.1.1-cp312-cp312-macosx_11_0_arm64.whl (4.7 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4.7/4.7 MB 43.1 MB/s  0:00:00
+Downloading tqdm-4.67.3-py3-none-any.whl (78 kB)
+Downloading h5py-3.15.1-cp312-cp312-macosx_11_0_arm64.whl (2.8 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.8/2.8 MB 39.0 MB/s  0:00:00
+Downloading scipy-1.17.1-cp312-cp312-macosx_14_0_arm64.whl (20.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 20.3/20.3 MB 48.6 MB/s  0:00:00
+Downloading pandas-3.0.1-cp312-cp312-macosx_11_0_arm64.whl (9.9 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 9.9/9.9 MB 48.4 MB/s  0:00:00
+Downloading jupyter-1.1.1-py2.py3-none-any.whl (2.7 kB)
+Downloading notebook-7.5.4-py3-none-any.whl (14.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 14.6/14.6 MB 47.8 MB/s  0:00:00
+Downloading jupyter_server-2.17.0-py3-none-any.whl (388 kB)
+Downloading jupyterlab-4.5.5-py3-none-any.whl (12.4 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 12.4/12.4 MB 47.7 MB/s  0:00:00
+Downloading httpx-0.28.1-py3-none-any.whl (73 kB)
+Downloading httpcore-1.0.9-py3-none-any.whl (78 kB)
+Downloading jupyterlab_server-2.28.0-py3-none-any.whl (59 kB)
+Downloading notebook_shim-0.2.4-py3-none-any.whl (13 kB)
+Downloading absl_py-2.4.0-py3-none-any.whl (135 kB)
+Downloading anyio-4.12.1-py3-none-any.whl (113 kB)
+Downloading argon2_cffi-25.1.0-py3-none-any.whl (14 kB)
+Downloading astunparse-1.6.3-py2.py3-none-any.whl (12 kB)
+Using cached six-1.17.0-py2.py3-none-any.whl (11 kB)
+Downloading async_lru-2.2.0-py3-none-any.whl (7.9 kB)
+Downloading babel-2.18.0-py3-none-any.whl (10.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 10.2/10.2 MB 49.5 MB/s  0:00:00
+Downloading certifi-2026.2.25-py3-none-any.whl (153 kB)
+Downloading contourpy-1.3.3-cp312-cp312-macosx_11_0_arm64.whl (273 kB)
+Downloading cycler-0.12.1-py3-none-any.whl (8.3 kB)
+Downloading flatbuffers-25.12.19-py2.py3-none-any.whl (26 kB)
+Downloading fonttools-4.61.1-cp312-cp312-macosx_10_13_universal2.whl (2.9 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.9/2.9 MB 39.3 MB/s  0:00:00
+Downloading gast-0.7.0-py3-none-any.whl (22 kB)
+Downloading google_pasta-0.2.0-py3-none-any.whl (57 kB)
+Downloading h11-0.16.0-py3-none-any.whl (37 kB)
+Downloading imageio-2.37.2-py3-none-any.whl (317 kB)
+Downloading ipykernel-7.2.0-py3-none-any.whl (118 kB)
+Downloading appnope-0.1.4-py2.py3-none-any.whl (4.3 kB)
+Downloading comm-0.2.3-py3-none-any.whl (7.3 kB)
+Downloading debugpy-1.8.20-cp312-cp312-macosx_15_0_universal2.whl (2.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.6/2.6 MB 43.7 MB/s  0:00:00
+Downloading ipython-9.10.0-py3-none-any.whl (622 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 622.8/622.8 kB 22.1 MB/s  0:00:00
+Downloading prompt_toolkit-3.0.52-py3-none-any.whl (391 kB)
+Downloading decorator-5.2.1-py3-none-any.whl (9.2 kB)
+Downloading ipython_pygments_lexers-1.1.1-py3-none-any.whl (8.1 kB)
+Downloading jedi-0.19.2-py2.py3-none-any.whl (1.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.6/1.6 MB 39.8 MB/s  0:00:00
+Downloading parso-0.8.6-py2.py3-none-any.whl (106 kB)
+Using cached jinja2-3.1.6-py3-none-any.whl (134 kB)
+Downloading joblib-1.5.3-py3-none-any.whl (309 kB)
+Downloading json5-0.13.0-py3-none-any.whl (36 kB)
+Downloading jsonschema-4.26.0-py3-none-any.whl (90 kB)
+Downloading attrs-25.4.0-py3-none-any.whl (67 kB)
+Downloading jsonschema_specifications-2025.9.1-py3-none-any.whl (18 kB)
+Downloading jupyter_client-8.8.0-py3-none-any.whl (107 kB)
+Downloading jupyter_core-5.9.1-py3-none-any.whl (29 kB)
+Downloading jupyter_events-0.12.0-py3-none-any.whl (19 kB)
+Downloading jsonpointer-3.0.0-py2.py3-none-any.whl (7.6 kB)
+Downloading jupyter_lsp-2.3.0-py3-none-any.whl (76 kB)
+Downloading jupyter_server_terminals-0.5.4-py3-none-any.whl (13 kB)
+Downloading keras-3.13.2-py3-none-any.whl (1.5 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.5/1.5 MB 48.6 MB/s  0:00:00
+Downloading kiwisolver-1.4.9-cp312-cp312-macosx_11_0_arm64.whl (64 kB)
+Using cached lazy_loader-0.4-py3-none-any.whl (12 kB)
+Downloading libclang-18.1.1-1-py2.py3-none-macosx_11_0_arm64.whl (25.8 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 25.8/25.8 MB 45.3 MB/s  0:00:00
+Downloading markdown-3.10.2-py3-none-any.whl (108 kB)
+Downloading markupsafe-3.0.3-cp312-cp312-macosx_11_0_arm64.whl (12 kB)
+Downloading matplotlib_inline-0.2.1-py3-none-any.whl (9.5 kB)
+Downloading nbconvert-7.17.0-py3-none-any.whl (261 kB)
+Downloading mistune-3.2.0-py3-none-any.whl (53 kB)
+Downloading bleach-6.3.0-py3-none-any.whl (164 kB)
+Downloading tinycss2-1.4.0-py3-none-any.whl (26 kB)
+Downloading nbclient-0.10.4-py3-none-any.whl (25 kB)
+Downloading nbformat-5.10.4-py3-none-any.whl (78 kB)
+Downloading fastjsonschema-2.21.2-py3-none-any.whl (24 kB)
+Downloading nest_asyncio-1.6.0-py3-none-any.whl (5.2 kB)
+Downloading networkx-3.6.1-py3-none-any.whl (2.1 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.1/2.1 MB 45.4 MB/s  0:00:00
+Downloading opt_einsum-3.4.0-py3-none-any.whl (71 kB)
+Downloading pandocfilters-1.5.1-py2.py3-none-any.whl (8.7 kB)
+Downloading pexpect-4.9.0-py2.py3-none-any.whl (63 kB)
+Downloading platformdirs-4.9.2-py3-none-any.whl (21 kB)
+Downloading prometheus_client-0.24.1-py3-none-any.whl (64 kB)
+Downloading psutil-7.2.2-cp36-abi3-macosx_11_0_arm64.whl (129 kB)
+Downloading ptyprocess-0.7.0-py2.py3-none-any.whl (13 kB)
+Downloading pygments-2.19.2-py3-none-any.whl (1.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 34.7 MB/s  0:00:00
+Downloading pyparsing-3.3.2-py3-none-any.whl (122 kB)
+Using cached python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+Downloading python_json_logger-4.0.0-py3-none-any.whl (15 kB)
+Downloading pyyaml-6.0.3-cp312-cp312-macosx_11_0_arm64.whl (173 kB)
+Downloading pyzmq-27.1.0-cp312-abi3-macosx_10_15_universal2.whl (1.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.3/1.3 MB 30.6 MB/s  0:00:00
+Downloading referencing-0.37.0-py3-none-any.whl (26 kB)
+Downloading rfc3986_validator-0.1.1-py2.py3-none-any.whl (4.2 kB)
+Downloading rfc3987_syntax-1.1.0-py3-none-any.whl (8.0 kB)
+Downloading lark-1.3.1-py3-none-any.whl (113 kB)
+Downloading rpds_py-0.30.0-cp312-cp312-macosx_11_0_arm64.whl (359 kB)
+Downloading send2trash-2.1.0-py3-none-any.whl (17 kB)
+Downloading stack_data-0.6.3-py3-none-any.whl (24 kB)
+Downloading asttokens-3.0.1-py3-none-any.whl (27 kB)
+Downloading executing-2.2.1-py2.py3-none-any.whl (28 kB)
+Downloading termcolor-3.3.0-py3-none-any.whl (7.7 kB)
+Downloading terminado-0.18.1-py3-none-any.whl (14 kB)
+Using cached threadpoolctl-3.6.0-py3-none-any.whl (18 kB)
+Downloading tifffile-2026.2.24-py3-none-any.whl (243 kB)
+Downloading tornado-6.5.4-cp39-abi3-macosx_10_9_universal2.whl (443 kB)
+Downloading traitlets-5.14.3-py3-none-any.whl (85 kB)
+Downloading webcolors-25.10.0-py3-none-any.whl (14 kB)
+Downloading webencodings-0.5.1-py2.py3-none-any.whl (11 kB)
+Downloading websocket_client-1.9.0-py3-none-any.whl (82 kB)
+Downloading werkzeug-3.1.6-py3-none-any.whl (225 kB)
+Downloading wrapt-2.1.1-cp312-cp312-macosx_11_0_arm64.whl (61 kB)
+Downloading argon2_cffi_bindings-25.1.0-cp39-abi3-macosx_11_0_arm64.whl (31 kB)
+Downloading cffi-2.0.0-cp312-cp312-macosx_11_0_arm64.whl (181 kB)
+Downloading beautifulsoup4-4.14.3-py3-none-any.whl (107 kB)
+Downloading soupsieve-2.8.3-py3-none-any.whl (37 kB)
+Downloading defusedxml-0.7.1-py2.py3-none-any.whl (25 kB)
+Downloading fqdn-1.5.1-py3-none-any.whl (9.1 kB)
+Downloading ipywidgets-8.1.8-py3-none-any.whl (139 kB)
+Downloading jupyterlab_widgets-3.0.16-py3-none-any.whl (914 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 914.9/914.9 kB 27.3 MB/s  0:00:00
+Downloading widgetsnbextension-4.0.15-py3-none-any.whl (2.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.2/2.2 MB 37.6 MB/s  0:00:00
+Downloading isoduration-20.11.0-py3-none-any.whl (11 kB)
+Downloading arrow-1.4.0-py3-none-any.whl (68 kB)
+Downloading jupyter_console-6.6.3-py3-none-any.whl (24 kB)
+Downloading jupyterlab_pygments-0.3.0-py3-none-any.whl (15 kB)
+Downloading namex-0.1.0-py3-none-any.whl (5.9 kB)
+Downloading optree-0.19.0-cp312-cp312-macosx_11_0_arm64.whl (388 kB)
+Downloading pure_eval-0.2.3-py3-none-any.whl (11 kB)
+Downloading pycparser-3.0-py3-none-any.whl (48 kB)
+Downloading rfc3339_validator-0.1.4-py2.py3-none-any.whl (3.5 kB)
+Downloading rich-14.3.3-py3-none-any.whl (310 kB)
+Downloading markdown_it_py-4.0.0-py3-none-any.whl (87 kB)
+Downloading mdurl-0.1.2-py3-none-any.whl (10.0 kB)
+Downloading tzdata-2025.3-py2.py3-none-any.whl (348 kB)
+Downloading uri_template-1.3.0-py3-none-any.whl (11 kB)
+Downloading wcwidth-0.6.0-py3-none-any.whl (94 kB)
+Building wheels for collected packages: imutils
+  Building wheel for imutils (pyproject.toml) ... done
+  Created wheel for imutils: filename=imutils-0.5.4-py3-none-any.whl size=25870 sha256=c696aca130d0c060516ec405045a84f5aba26d628ee8015f70009f24a63f9d5a
+  Stored in directory: /Users/shaneyost/Library/Caches/pip/wheels/5b/76/96/ad0c321506837bef578cf3008df3916c23018435a355d9f6b1
+Successfully built imutils
+Installing collected packages: webencodings, pure-eval, ptyprocess, namex, libclang, imutils, flatbuffers, fastjsonschema, wrapt, widgetsnbextension, websocket-client, webcolors, wcwidth, urllib3, uri-template, tzdata, typing-extensions, traitlets, tqdm, tornado, tinycss2, threadpoolctl, termcolor, tensorboard-data-server, soupsieve, six, send2trash, rpds-py, rfc3986-validator, pyzmq, pyyaml, python-json-logger, pyparsing, pygments, pycparser, psutil, protobuf, prometheus-client, platformdirs, pillow, pexpect, parso, pandocfilters, opt-einsum, numpy, networkx, nest-asyncio, mistune, mdurl, MarkupSafe, markdown, lazy-loader, lark, kiwisolver, jupyterlab_widgets, jupyterlab-pygments, jsonpointer, json5, joblib, idna, h11, gast, fqdn, fonttools, executing, defusedxml, decorator, debugpy, cycler, comm, charset_normalizer, certifi, bleach, babel, attrs, async-lru, asttokens, appnope, absl-py, werkzeug, tifffile, terminado, tensorflow-metal, stack_data, scipy, rfc3987-syntax, rfc3339-validator, requests, referencing, python-dateutil, prompt_toolkit, optree, opencv-python-headless, ml-dtypes, matplotlib-inline, markdown-it-py, jupyter-core, jinja2, jedi, ipython-pygments-lexers, imageio, httpcore, h5py, grpcio, google-pasta, contourpy, cffi, beautifulsoup4, astunparse, anyio, tensorboard, scikit-learn, scikit-image, rich, pandas, matplotlib, jupyter-server-terminals, jupyter-client, jsonschema-specifications, ipython, httpx, arrow, argon2-cffi-bindings, keras, jsonschema, isoduration, ipywidgets, ipykernel, argon2-cffi, tensorflow, nbformat, jupyter-console, nbclient, jupyter-events, nbconvert, jupyter-server, notebook-shim, jupyterlab-server, jupyter-lsp, jupyterlab, notebook, jupyter
+Successfully installed MarkupSafe-3.0.3 absl-py-2.4.0 anyio-4.12.1 appnope-0.1.4 argon2-cffi-25.1.0 argon2-cffi-bindings-25.1.0 arrow-1.4.0 asttokens-3.0.1 astunparse-1.6.3 async-lru-2.2.0 attrs-25.4.0 babel-2.18.0 beautifulsoup4-4.14.3 bleach-6.3.0 certifi-2026.2.25 cffi-2.0.0 charset_normalizer-3.4.4 comm-0.2.3 contourpy-1.3.3 cycler-0.12.1 debugpy-1.8.20 decorator-5.2.1 defusedxml-0.7.1 executing-2.2.1 fastjsonschema-2.21.2 flatbuffers-25.12.19 fonttools-4.61.1 fqdn-1.5.1 gast-0.7.0 google-pasta-0.2.0 grpcio-1.78.1 h11-0.16.0 h5py-3.15.1 httpcore-1.0.9 httpx-0.28.1 idna-3.11 imageio-2.37.2 imutils-0.5.4 ipykernel-7.2.0 ipython-9.10.0 ipython-pygments-lexers-1.1.1 ipywidgets-8.1.8 isoduration-20.11.0 jedi-0.19.2 jinja2-3.1.6 joblib-1.5.3 json5-0.13.0 jsonpointer-3.0.0 jsonschema-4.26.0 jsonschema-specifications-2025.9.1 jupyter-1.1.1 jupyter-client-8.8.0 jupyter-console-6.6.3 jupyter-core-5.9.1 jupyter-events-0.12.0 jupyter-lsp-2.3.0 jupyter-server-2.17.0 jupyter-server-terminals-0.5.4 jupyterlab-4.5.5 jupyterlab-pygments-0.3.0 jupyterlab-server-2.28.0 jupyterlab_widgets-3.0.16 keras-3.13.2 kiwisolver-1.4.9 lark-1.3.1 lazy-loader-0.4 libclang-18.1.1 markdown-3.10.2 markdown-it-py-4.0.0 matplotlib-3.10.8 matplotlib-inline-0.2.1 mdurl-0.1.2 mistune-3.2.0 ml-dtypes-0.5.4 namex-0.1.0 nbclient-0.10.4 nbconvert-7.17.0 nbformat-5.10.4 nest-asyncio-1.6.0 networkx-3.6.1 notebook-7.5.4 notebook-shim-0.2.4 numpy-2.0.2 opencv-python-headless-4.13.0.92 opt-einsum-3.4.0 optree-0.19.0 pandas-3.0.1 pandocfilters-1.5.1 parso-0.8.6 pexpect-4.9.0 pillow-12.1.1 platformdirs-4.9.2 prometheus-client-0.24.1 prompt_toolkit-3.0.52 protobuf-5.29.6 psutil-7.2.2 ptyprocess-0.7.0 pure-eval-0.2.3 pycparser-3.0 pygments-2.19.2 pyparsing-3.3.2 python-dateutil-2.9.0.post0 python-json-logger-4.0.0 pyyaml-6.0.3 pyzmq-27.1.0 referencing-0.37.0 requests-2.32.5 rfc3339-validator-0.1.4 rfc3986-validator-0.1.1 rfc3987-syntax-1.1.0 rich-14.3.3 rpds-py-0.30.0 scikit-image-0.26.0 scikit-learn-1.8.0 scipy-1.17.1 send2trash-2.1.0 six-1.17.0 soupsieve-2.8.3 stack_data-0.6.3 tensorboard-2.18.0 tensorboard-data-server-0.7.2 tensorflow-2.18.1 tensorflow-metal-1.2.0 termcolor-3.3.0 terminado-0.18.1 threadpoolctl-3.6.0 tifffile-2026.2.24 tinycss2-1.4.0 tornado-6.5.4 tqdm-4.67.3 traitlets-5.14.3 typing-extensions-4.15.0 tzdata-2025.3 uri-template-1.3.0 urllib3-2.6.3 wcwidth-0.6.0 webcolors-25.10.0 webencodings-0.5.1 websocket-client-1.9.0 werkzeug-3.1.6 widgetsnbextension-4.0.15 wrapt-2.1.1
+
+ …/pyimgsrc-dl4cv   main   3.12.2 .venv 
+   pip freeze > requirements.txt
+
+ …/pyimgsrc-dl4cv   main ?   3.12.2 .venv 
+   v verify_install.py
+
+ …/pyimgsrc-dl4cv   main ?   3.12.2 .venv 
+   chmod 755 verify_install.py
+
+ …/pyimgsrc-dl4cv   main ?   3.12.2 .venv 
+   ./verify_install.py
+Matplotlib is building the font cache; this may take a moment.
+============================================================
+TensorFlow GPU Verification
+============================================================
+
+Python version  : 3.12.2 (main, Mar 15 2024, 22:34:03) [Clang 15.0.0 (clang-1500.3.9.4)]
+TensorFlow version: 2.18.1
+
+CPU devices: 1
+  PhysicalDevice(name='/physical_device:CPU:0', device_type='CPU')
+
+GPU devices: 1
+  PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')
+
+Running matmul on GPU...
+2026-02-25 11:27:36.564123: I metal_plugin/src/device/metal_device.cc:1154] Metal device set to: Apple M3 Max
+2026-02-25 11:27:36.564163: I metal_plugin/src/device/metal_device.cc:296] systemMemory: 48.00 GB
+2026-02-25 11:27:36.564171: I metal_plugin/src/device/metal_device.cc:313] maxCacheSize: 18.72 GB
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1772044056.564236 1806337 pluggable_device_factory.cc:305] Could not identify NUMA node of platform GPU ID 0, defaulting to 0. Your kernel may not have been built with NUMA support.
+I0000 00:00:1772044056.564317 1806337 pluggable_device_factory.cc:271] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 0 MB memory) -> physical PluggableDevice (device: 0, name: METAL, pci bus id: <undefined>)
+  Result shape: (2000, 2000)
+  Result dtype: <dtype: 'float32'>
+  Executed on : /job:localhost/replica:0/task:0/device:GPU:0
+  Sample value: 56.0689
+
+✅ GPU acceleration is working.
+
+ …/pyimgsrc-dl4cv   main ?   3.12.2 .venv 
+   ll
+total 24
+drwxr-xr-x  9 shaneyost staff  288 Feb 25 11:26 .
+drwxr-xr-x 24 shaneyost staff  768 Feb 25 11:18 ..
+drwxr-xr-x 12 shaneyost staff  384 Feb 25 11:18 .git
+-rw-r--r--  1 shaneyost staff 4688 Feb 25 11:18 .gitignore
+drwxr-xr-x  8 shaneyost staff  256 Feb 25 11:20 .venv
+-rw-r--r--  1 shaneyost staff 1070 Feb 25 11:18 LICENSE
+-rw-r--r--  1 shaneyost staff   65 Feb 25 11:18 README.md
+-rw-r--r--  1 shaneyost staff 2654 Feb 25 11:25 requirements.txt
+-rwxr-xr-x  1 shaneyost staff 1053 Feb 25 11:26 verify_install.py
+
+ …/pyimgsrc-dl4cv   main ?   3.12.2 .venv 
+   mv verify_install.py verify_gpu.py
+
+ …/pyimgsrc-dl4cv   main ?   3.12.2 .venv 
+   v verify_all.py
+
+ …/pyimgsrc-dl4cv   main ?   3.12.2 .venv 
+   v verify_gpu.py
+
+ …/pyimgsrc-dl4cv   main ?   3.12.2 .venv 
+   ll
+total 28
+drwxr-xr-x 10 shaneyost staff  320 Feb 25 11:32 .
+drwxr-xr-x 24 shaneyost staff  768 Feb 25 11:18 ..
+drwxr-xr-x 12 shaneyost staff  384 Feb 25 11:18 .git
+-rw-r--r--  1 shaneyost staff 4688 Feb 25 11:18 .gitignore
+drwxr-xr-x  8 shaneyost staff  256 Feb 25 11:20 .venv
+-rw-r--r--  1 shaneyost staff 1070 Feb 25 11:18 LICENSE
+-rw-r--r--  1 shaneyost staff   65 Feb 25 11:18 README.md
+-rw-r--r--  1 shaneyost staff 2654 Feb 25 11:25 requirements.txt
+-rw-r--r--  1 shaneyost staff   22 Feb 25 11:32 verify_all.py
+-rwxr-xr-x  1 shaneyost staff 1052 Feb 25 11:32 verify_gpu.py
+
+ …/pyimgsrc-dl4cv   main ?   3.12.2 .venv 
+   chmod 755 verify_all.py
+
+ …/pyimgsrc-dl4cv   main ?   3.12.2 .venv 
+   ./verify_
+zsh: no such file or directory: ./verify_
+
+ …/pyimgsrc-dl4cv   main ?   3.12.2 .venv 
+   ./verify_all.py
+
+ …/pyimgsrc-dl4cv   main ?   3.12.2 .venv 
+   v verify_all.py
+
+ …/pyimgsrc-dl4cv   main ?   3.12.2 .venv 
+   ./verify_all.py
+============================================================
+DL4CV Environment Verification
+============================================================
+
+Python: 3.12.2 (main, Mar 15 2024, 22:34:03) [Clang 15.0.0 (clang-1500.3.9.4)]
+
+Package              Version         Status
+-------------------------------------------------------
+tensorflow           2.18.1          ✅ 1 GPU(s)
+cv2 (OpenCV)         4.13.0          ✅
+scikit-image         0.26.0          ✅
+scikit-learn         1.8.0           ✅
+numpy                2.0.2           ✅
+matplotlib           3.10.8          ✅
+Pillow               12.1.1          ✅
+imutils              0.5.4           ✅
+h5py                 3.15.1          ✅
+
+============================================================
+✅ All packages installed. Environment is ready for DL4CV.
+============================================================
+
+ …/pyimgsrc-dl4cv   main ?   3.12.2 .venv 
+   brew install protobuf
+✔︎ JSON API cask.jws.json                                                     Downloaded   15.3MB/ 15.3MB
+✔︎ JSON API formula.jws.json                                                  Downloaded   31.9MB/ 31.9MB
+Warning: protobuf 33.4_1 is already installed and up-to-date.
+To reinstall 33.4_1, run:
+  brew reinstall protobuf
