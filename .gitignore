@@ -3,7 +3,12 @@ __pycache__/
 *.py[codz]
 *$py.class
 .venv
-
+.DS_Store
+# viz
+# viz-viewer
+viz-viewer/node_modules/
+viz-viewer/dist/
+viz-viewer/.vite/
 # C extensions
 *.so
 
